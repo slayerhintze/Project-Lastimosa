@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2rUXngJlO9wWBGkjXILdl507jJah2rnphcgBpXP75fFXi7HgxkL4Ix3edjMuiHFbFuPg50/34YjFmrlHFHxHHw==",
+  "success": true,
+  "projectFilePath": "D:\\Project-Lastimosa\\Project-Lastimosa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Braden\\.nuget\\packages\\google.protobuf\\3.25.2\\google.protobuf.3.25.2.nupkg.sha512",
+    "C:\\Users\\Braden\\.nuget\\packages\\google.protobuf.tools\\3.25.2\\google.protobuf.tools.3.25.2.nupkg.sha512"
+  ],
+  "logs": []
+}

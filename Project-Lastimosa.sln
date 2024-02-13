@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project-Lastimosa", "Project-Lastimosa.csproj", "{B79B890F-2C1C-4EC4-92A4-85CBA2F08CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B79B890F-2C1C-4EC4-92A4-85CBA2F08CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79B890F-2C1C-4EC4-92A4-85CBA2F08CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79B890F-2C1C-4EC4-92A4-85CBA2F08CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79B890F-2C1C-4EC4-92A4-85CBA2F08CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64BF3AE2-9895-4EDC-8169-B25019579E12}
+	EndGlobalSection
+EndGlobal
