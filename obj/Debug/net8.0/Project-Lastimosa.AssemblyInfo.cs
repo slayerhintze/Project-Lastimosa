@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project-Lastimosa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8262c113dcf787af09f11d748ed1430db478214")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b19eeb82d5bcc6302227875508ca5ee024d778f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project-Lastimosa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project-Lastimosa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Net;
 using System.Net.Sockets;
 using System.Net.WebSockets;
@@ -32,11 +33,36 @@ namespace Project_Lastimosa
                 {
                     while (!dataStream.DataAvailable) ;
 
-                    StreamReader rdr = new StreamReader(dataStream);
+                    byte[] bytes = new byte[liveAPIClient.Available];
 
-                    while (!rdr.EndOfStream)
+                    dataStream.Read(bytes, 0, bytes.Length);
+
+                    String data = Encoding.UTF8.GetString(bytes);
+
+                    if (new System.Text.RegularExpressions.Regex("^GET").IsMatch(data))
                     {
-                        Console.WriteLine(rdr.ReadLine());
+                        Console.WriteLine("Another");
+
+                        const string eol = "\r\n"; // HTTP/1.1 defines the sequence CR LF as the end-of-line marker
+
+                        byte[] response = Encoding.UTF8.GetBytes("HTTP/1.1 101 Switching Protocols" + eol
+                            + "Connection: Upgrade" + eol
+                            + "Upgrade: websocket" + eol
+                            + "Sec-WebSocket-Accept: " + Convert.ToBase64String(
+                                System.Security.Cryptography.SHA1.Create().ComputeHash(
+                                    Encoding.UTF8.GetBytes(
+                                        new System.Text.RegularExpressions.Regex("Sec-WebSocket-Key: (.*)").Match(data).Groups[1].Value.Trim()
+                                    )
+                                )
+                            ) + eol
+                        + eol);
+
+                        dataStream.Write(response, 0, response.Length);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Something");
+                        Console.WriteLine(data);
                     }
                 }
             }
