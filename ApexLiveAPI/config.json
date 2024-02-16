@@ -1,0 +1,28 @@
+// Sample config.json
+// Refer to the readme.txt for more info on these options
+{
+	// Live API general settings
+	"settings": {
+		// Enable Live API 2.0, which includes websockets and protobuf support
+		"cl_liveapi_use_v2": true,
+		// Use WebSockets client and connect to a server
+		"cl_liveapi_use_websocket": true,
+		// Allow the API to process requests from a WebSocket connection
+		"cl_liveapi_allow_requests": true,
+		
+		// WebSockets client networking options
+		"cl_liveapi_ws_retry_count": 5,
+		"cl_liveapi_ws_retry_time": 5,
+		"cl_liveapi_ws_timeout": 300,
+		"cl_liveapi_ws_keepalive": 10,
+		
+		// Use protobuf as the serialization format. Otherwise, use JSON.
+		"cl_liveapi_use_protobuf": false,
+		// When using JSON, whether to use human readable formatting
+		"cl_liveapi_pretty_print_log": false
+	},
+	// List of websocket servers Apex should connect to
+	"servers": [
+		"ws://127.0.0.1:7777",
+	]
+}

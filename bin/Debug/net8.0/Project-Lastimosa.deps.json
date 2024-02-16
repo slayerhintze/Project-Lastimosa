@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Project-Lastimosa/1.0.0": {
+        "dependencies": {
+          "Google.Protobuf": "3.25.2",
+          "Google.Protobuf.Tools": "3.25.2"
+        },
+        "runtime": {
+          "Project-Lastimosa.dll": {}
+        }
+      },
+      "Google.Protobuf/3.25.2": {
+        "runtime": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.25.2.0",
+            "fileVersion": "3.25.2.0"
+          }
+        }
+      },
+      "Google.Protobuf.Tools/3.25.2": {}
+    }
+  },
+  "libraries": {
+    "Project-Lastimosa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.25.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-g/xIIeLhR77bl4ajGGbPYRmZf5acJlCRaSBqUnU8+2aQYREnZnv+UccRNndHof4mWO1ORS0b5i6on40VOjBpsg==",
+      "path": "google.protobuf/3.25.2",
+      "hashPath": "google.protobuf.3.25.2.nupkg.sha512"
+    },
+    "Google.Protobuf.Tools/3.25.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NBoSJUtyo1LV1uKB/TWaJrdeP+EJXDu8sCUC/guHGhiau5IrD1LXUbF7vmn+G2rOkB9sUQFIHxWD/zzJSX7n5w==",
+      "path": "google.protobuf.tools/3.25.2",
+      "hashPath": "google.protobuf.tools.3.25.2.nupkg.sha512"
+    }
+  }
+}

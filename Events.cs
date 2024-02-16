@@ -39,156 +39,173 @@ namespace Rtech.Liveapi {
             "aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiABKAkSDAoEbmFtZRgDIAEo",
             "CSJWCgdWZXJzaW9uEhEKCW1ham9yX251bRgBIAEoDRIRCgltaW5vcl9udW0Y",
             "AiABKA0SEwoLYnVpbGRfc3RhbXAYAyABKA0SEAoIcmV2aXNpb24YBCABKAki",
-            "jAEKBEluaXQSEQoJdGltZXN0YW1wGAEgASgEEhAKCGNhdGVnb3J5GAIgASgJ",
-            "EhMKC2dhbWVWZXJzaW9uGAMgASgJEioKCmFwaVZlcnNpb24YBCABKAsyFi5y",
-            "dGVjaC5saXZlYXBpLlZlcnNpb24SEAoIcGxhdGZvcm0YBSABKAkSDAoEbmFt",
-            "ZRgGIAEoCSJoChhDdXN0b21NYXRjaF9Mb2JieVBsYXllcnMSEwoLcGxheWVy",
-            "VG9rZW4YASABKAkSNwoHcGxheWVycxgCIAMoCzImLnJ0ZWNoLmxpdmVhcGku",
-            "Q3VzdG9tTWF0Y2hfTG9iYnlQbGF5ZXIisgEKEE9ic2VydmVyU3dpdGNoZWQS",
-            "EQoJdGltZXN0YW1wGAEgASgEEhAKCGNhdGVnb3J5GAIgASgJEicKCG9ic2Vy",
-            "dmVyGAMgASgLMhUucnRlY2gubGl2ZWFwaS5QbGF5ZXISJQoGdGFyZ2V0GAQg",
-            "ASgLMhUucnRlY2gubGl2ZWFwaS5QbGF5ZXISKQoKdGFyZ2V0VGVhbRgFIAMo",
-            "CzIVLnJ0ZWNoLmxpdmVhcGkuUGxheWVyIlMKEk9ic2VydmVyQW5ub3RhdGlv",
-            "bhIRCgl0aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiABKAkSGAoQYW5u",
-            "b3RhdGlvblNlcmlhbBgDIAEoBSLXAQoKTWF0Y2hTZXR1cBIRCgl0aW1lc3Rh",
-            "bXAYASABKAQSEAoIY2F0ZWdvcnkYAiABKAkSCwoDbWFwGAMgASgJEhQKDHBs",
-            "YXlsaXN0TmFtZRgEIAEoCRIUCgxwbGF5bGlzdERlc2MYBSABKAkSLQoKZGF0",
-            "YWNlbnRlchgGIAEoCzIZLnJ0ZWNoLmxpdmVhcGkuRGF0YWNlbnRlchITCgth",
-            "aW1Bc3Npc3RPbhgHIAEoCBIVCg1hbm9ueW1vdXNNb2RlGAggASgIEhAKCHNl",
-            "cnZlcklkGAkgASgJIkYKEEdhbWVTdGF0ZUNoYW5nZWQSEQoJdGltZXN0YW1w",
-            "GAEgASgEEhAKCGNhdGVnb3J5GAIgASgJEg0KBXN0YXRlGAMgASgJIl8KEUNo",
-            "YXJhY3RlclNlbGVjdGVkEhEKCXRpbWVzdGFtcBgBIAEoBBIQCghjYXRlZ29y",
-            "eRgCIAEoCRIlCgZwbGF5ZXIYAyABKAsyFS5ydGVjaC5saXZlYXBpLlBsYXll",
-            "ciJrCg1NYXRjaFN0YXRlRW5kEhEKCXRpbWVzdGFtcBgBIAEoBBIQCghjYXRl",
-            "Z29yeRgCIAEoCRINCgVzdGF0ZRgDIAEoCRImCgd3aW5uZXJzGAQgAygLMhUu",
-            "cnRlY2gubGl2ZWFwaS5QbGF5ZXIisAEKEFJpbmdTdGFydENsb3NpbmcSEQoJ",
-            "dGltZXN0YW1wGAEgASgEEhAKCGNhdGVnb3J5GAIgASgJEg0KBXN0YWdlGAMg",
-            "ASgNEiYKBmNlbnRlchgEIAEoCzIWLnJ0ZWNoLmxpdmVhcGkuVmVjdG9yMxIV",
-            "Cg1jdXJyZW50UmFkaXVzGAUgASgCEhEKCWVuZFJhZGl1cxgGIAEoAhIWCg5z",
-            "aHJpbmtEdXJhdGlvbhgHIAEoAiKgAQoTUmluZ0ZpbmlzaGVkQ2xvc2luZxIR",
-            "Cgl0aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiABKAkSDQoFc3RhZ2UY",
-            "AyABKA0SJgoGY2VudGVyGAQgASgLMhYucnRlY2gubGl2ZWFwaS5WZWN0b3Iz",
-            "EhUKDWN1cnJlbnRSYWRpdXMYBSABKAISFgoOc2hyaW5rRHVyYXRpb24YByAB",
-            "KAIiXQoPUGxheWVyQ29ubmVjdGVkEhEKCXRpbWVzdGFtcBgBIAEoBBIQCghj",
-            "YXRlZ29yeRgCIAEoCRIlCgZwbGF5ZXIYAyABKAsyFS5ydGVjaC5saXZlYXBp",
-            "LlBsYXllciKHAQoSUGxheWVyRGlzY29ubmVjdGVkEhEKCXRpbWVzdGFtcBgB",
-            "IAEoBBIQCghjYXRlZ29yeRgCIAEoCRIlCgZwbGF5ZXIYAyABKAsyFS5ydGVj",
-            "aC5saXZlYXBpLlBsYXllchIUCgxjYW5SZWNvbm5lY3QYBCABKAgSDwoHaXNB",
-            "bGl2ZRgFIAEoCCKDAQoRUGxheWVyU3RhdENoYW5nZWQSEQoJdGltZXN0YW1w",
-            "GAEgASgEEhAKCGNhdGVnb3J5GAIgASgJEiUKBnBsYXllchgDIAEoCzIVLnJ0",
-            "ZWNoLmxpdmVhcGkuUGxheWVyEhAKCHN0YXROYW1lGAQgASgJEhAKCG5ld1Zh",
-            "bHVlGAUgASgNIq0BCg1QbGF5ZXJEYW1hZ2VkEhEKCXRpbWVzdGFtcBgBIAEo",
-            "BBIQCghjYXRlZ29yeRgCIAEoCRInCghhdHRhY2tlchgDIAEoCzIVLnJ0ZWNo",
-            "LmxpdmVhcGkuUGxheWVyEiUKBnZpY3RpbRgEIAEoCzIVLnJ0ZWNoLmxpdmVh",
-            "cGkuUGxheWVyEg4KBndlYXBvbhgFIAEoCRIXCg9kYW1hZ2VJbmZsaWN0ZWQY",
-            "BiABKA0ivQEKDFBsYXllcktpbGxlZBIRCgl0aW1lc3RhbXAYASABKAQSEAoI",
-            "Y2F0ZWdvcnkYAiABKAkSJwoIYXR0YWNrZXIYAyABKAsyFS5ydGVjaC5saXZl",
-            "YXBpLlBsYXllchIlCgZ2aWN0aW0YBCABKAsyFS5ydGVjaC5saXZlYXBpLlBs",
-            "YXllchIoCglhd2FyZGVkVG8YBSABKAsyFS5ydGVjaC5saXZlYXBpLlBsYXll",
-            "chIOCgZ3ZWFwb24YBiABKAkikwEKDFBsYXllckRvd25lZBIRCgl0aW1lc3Rh",
-            "bXAYASABKAQSEAoIY2F0ZWdvcnkYAiABKAkSJwoIYXR0YWNrZXIYAyABKAsy",
-            "FS5ydGVjaC5saXZlYXBpLlBsYXllchIlCgZ2aWN0aW0YBCABKAsyFS5ydGVj",
-            "aC5saXZlYXBpLlBsYXllchIOCgZ3ZWFwb24YBSABKAkilAEKDFBsYXllckFz",
-            "c2lzdBIRCgl0aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiABKAkSKAoJ",
-            "YXNzaXN0YW50GAMgASgLMhUucnRlY2gubGl2ZWFwaS5QbGF5ZXISJQoGdmlj",
-            "dGltGAQgASgLMhUucnRlY2gubGl2ZWFwaS5QbGF5ZXISDgoGd2VhcG9uGAUg",
-            "ASgJIl4KD1NxdWFkRWxpbWluYXRlZBIRCgl0aW1lc3RhbXAYASABKAQSEAoI",
-            "Y2F0ZWdvcnkYAiABKAkSJgoHcGxheWVycxgDIAMoCzIVLnJ0ZWNoLmxpdmVh",
-            "cGkuUGxheWVyIqcBChdHaWJyYWx0YXJTaGllbGRBYnNvcmJlZBIRCgl0aW1l",
-            "c3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiABKAkSJwoIYXR0YWNrZXIYAyAB",
-            "KAsyFS5ydGVjaC5saXZlYXBpLlBsYXllchIlCgZ2aWN0aW0YBCABKAsyFS5y",
-            "dGVjaC5saXZlYXBpLlBsYXllchIXCg9kYW1hZ2VJbmZsaWN0ZWQYBiABKA0i",
-            "cgoRUGxheWVyUmVzcGF3blRlYW0SEQoJdGltZXN0YW1wGAEgASgEEhAKCGNh",
-            "dGVnb3J5GAIgASgJEiUKBnBsYXllchgDIAEoCzIVLnJ0ZWNoLmxpdmVhcGku",
-            "UGxheWVyEhEKCXJlc3Bhd25lZBgEIAEoCSKCAQoMUGxheWVyUmV2aXZlEhEK",
-            "CXRpbWVzdGFtcBgBIAEoBBIQCghjYXRlZ29yeRgCIAEoCRIlCgZwbGF5ZXIY",
-            "AyABKAsyFS5ydGVjaC5saXZlYXBpLlBsYXllchImCgdyZXZpdmVkGAQgASgL",
-            "MhUucnRlY2gubGl2ZWFwaS5QbGF5ZXIigAEKEkFyZW5hc0l0ZW1TZWxlY3Rl",
+            "QgoNSW52ZW50b3J5SXRlbRIQCghxdWFudGl0eRgBIAEoBRIMCgRpdGVtGAIg",
+            "ASgJEhEKCWV4dHJhRGF0YRgDIAEoCSJ2ChRMb2Fkb3V0Q29uZmlndXJhdGlv",
+            "bhItCgd3ZWFwb25zGAEgAygLMhwucnRlY2gubGl2ZWFwaS5JbnZlbnRvcnlJ",
+            "dGVtEi8KCWVxdWlwbWVudBgCIAMoCzIcLnJ0ZWNoLmxpdmVhcGkuSW52ZW50",
+            "b3J5SXRlbSKMAQoESW5pdBIRCgl0aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdv",
+            "cnkYAiABKAkSEwoLZ2FtZVZlcnNpb24YAyABKAkSKgoKYXBpVmVyc2lvbhgE",
+            "IAEoCzIWLnJ0ZWNoLmxpdmVhcGkuVmVyc2lvbhIQCghwbGF0Zm9ybRgFIAEo",
+            "CRIMCgRuYW1lGAYgASgJImgKGEN1c3RvbU1hdGNoX0xvYmJ5UGxheWVycxIT",
+            "CgtwbGF5ZXJUb2tlbhgBIAEoCRI3CgdwbGF5ZXJzGAIgAygLMiYucnRlY2gu",
+            "bGl2ZWFwaS5DdXN0b21NYXRjaF9Mb2JieVBsYXllciKyAQoQT2JzZXJ2ZXJT",
+            "d2l0Y2hlZBIRCgl0aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiABKAkS",
+            "JwoIb2JzZXJ2ZXIYAyABKAsyFS5ydGVjaC5saXZlYXBpLlBsYXllchIlCgZ0",
+            "YXJnZXQYBCABKAsyFS5ydGVjaC5saXZlYXBpLlBsYXllchIpCgp0YXJnZXRU",
+            "ZWFtGAUgAygLMhUucnRlY2gubGl2ZWFwaS5QbGF5ZXIiUwoST2JzZXJ2ZXJB",
+            "bm5vdGF0aW9uEhEKCXRpbWVzdGFtcBgBIAEoBBIQCghjYXRlZ29yeRgCIAEo",
+            "CRIYChBhbm5vdGF0aW9uU2VyaWFsGAMgASgFIpUCCgpNYXRjaFNldHVwEhEK",
+            "CXRpbWVzdGFtcBgBIAEoBBIQCghjYXRlZ29yeRgCIAEoCRILCgNtYXAYAyAB",
+            "KAkSFAoMcGxheWxpc3ROYW1lGAQgASgJEhQKDHBsYXlsaXN0RGVzYxgFIAEo",
+            "CRItCgpkYXRhY2VudGVyGAYgASgLMhkucnRlY2gubGl2ZWFwaS5EYXRhY2Vu",
+            "dGVyEhMKC2FpbUFzc2lzdE9uGAcgASgIEhUKDWFub255bW91c01vZGUYCCAB",
+            "KAgSEAoIc2VydmVySWQYCSABKAkSPAoPc3RhcnRpbmdMb2Fkb3V0GAogASgL",
+            "MiMucnRlY2gubGl2ZWFwaS5Mb2Fkb3V0Q29uZmlndXJhdGlvbiJGChBHYW1l",
+            "U3RhdGVDaGFuZ2VkEhEKCXRpbWVzdGFtcBgBIAEoBBIQCghjYXRlZ29yeRgC",
+            "IAEoCRINCgVzdGF0ZRgDIAEoCSJfChFDaGFyYWN0ZXJTZWxlY3RlZBIRCgl0",
+            "aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiABKAkSJQoGcGxheWVyGAMg",
+            "ASgLMhUucnRlY2gubGl2ZWFwaS5QbGF5ZXIiawoNTWF0Y2hTdGF0ZUVuZBIR",
+            "Cgl0aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiABKAkSDQoFc3RhdGUY",
+            "AyABKAkSJgoHd2lubmVycxgEIAMoCzIVLnJ0ZWNoLmxpdmVhcGkuUGxheWVy",
+            "IrABChBSaW5nU3RhcnRDbG9zaW5nEhEKCXRpbWVzdGFtcBgBIAEoBBIQCghj",
+            "YXRlZ29yeRgCIAEoCRINCgVzdGFnZRgDIAEoDRImCgZjZW50ZXIYBCABKAsy",
+            "Fi5ydGVjaC5saXZlYXBpLlZlY3RvcjMSFQoNY3VycmVudFJhZGl1cxgFIAEo",
+            "AhIRCgllbmRSYWRpdXMYBiABKAISFgoOc2hyaW5rRHVyYXRpb24YByABKAIi",
+            "oAEKE1JpbmdGaW5pc2hlZENsb3NpbmcSEQoJdGltZXN0YW1wGAEgASgEEhAK",
+            "CGNhdGVnb3J5GAIgASgJEg0KBXN0YWdlGAMgASgNEiYKBmNlbnRlchgEIAEo",
+            "CzIWLnJ0ZWNoLmxpdmVhcGkuVmVjdG9yMxIVCg1jdXJyZW50UmFkaXVzGAUg",
+            "ASgCEhYKDnNocmlua0R1cmF0aW9uGAcgASgCIl0KD1BsYXllckNvbm5lY3Rl",
             "ZBIRCgl0aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiABKAkSJQoGcGxh",
-            "eWVyGAMgASgLMhUucnRlY2gubGl2ZWFwaS5QbGF5ZXISDAoEaXRlbRgEIAEo",
-            "CRIQCghxdWFudGl0eRgFIAEoBSKCAQoUQXJlbmFzSXRlbURlc2VsZWN0ZWQS",
-            "EQoJdGltZXN0YW1wGAEgASgEEhAKCGNhdGVnb3J5GAIgASgJEiUKBnBsYXll",
-            "chgDIAEoCzIVLnJ0ZWNoLmxpdmVhcGkuUGxheWVyEgwKBGl0ZW0YBCABKAkS",
-            "EAoIcXVhbnRpdHkYBSABKAUifQoPSW52ZW50b3J5UGlja1VwEhEKCXRpbWVz",
-            "dGFtcBgBIAEoBBIQCghjYXRlZ29yeRgCIAEoCRIlCgZwbGF5ZXIYAyABKAsy",
-            "FS5ydGVjaC5saXZlYXBpLlBsYXllchIMCgRpdGVtGAQgASgJEhAKCHF1YW50",
-            "aXR5GAUgASgFIo4BCg1JbnZlbnRvcnlEcm9wEhEKCXRpbWVzdGFtcBgBIAEo",
-            "BBIQCghjYXRlZ29yeRgCIAEoCRIlCgZwbGF5ZXIYAyABKAsyFS5ydGVjaC5s",
-            "aXZlYXBpLlBsYXllchIMCgRpdGVtGAQgASgJEhAKCHF1YW50aXR5GAUgASgF",
-            "EhEKCWV4dHJhRGF0YRgGIAMoCSJ6CgxJbnZlbnRvcnlVc2USEQoJdGltZXN0",
-            "YW1wGAEgASgEEhAKCGNhdGVnb3J5GAIgASgJEiUKBnBsYXllchgDIAEoCzIV",
-            "LnJ0ZWNoLmxpdmVhcGkuUGxheWVyEgwKBGl0ZW0YBCABKAkSEAoIcXVhbnRp",
-            "dHkYBSABKAUihwEKD0Jhbm5lckNvbGxlY3RlZBIRCgl0aW1lc3RhbXAYASAB",
-            "KAQSEAoIY2F0ZWdvcnkYAiABKAkSJQoGcGxheWVyGAMgASgLMhUucnRlY2gu",
-            "bGl2ZWFwaS5QbGF5ZXISKAoJY29sbGVjdGVkGAQgASgLMhUucnRlY2gubGl2",
-            "ZWFwaS5QbGF5ZXIidQoRUGxheWVyQWJpbGl0eVVzZWQSEQoJdGltZXN0YW1w",
-            "GAEgASgEEhAKCGNhdGVnb3J5GAIgASgJEiUKBnBsYXllchgDIAEoCzIVLnJ0",
-            "ZWNoLmxpdmVhcGkuUGxheWVyEhQKDGxpbmtlZEVudGl0eRgEIAEoCSJvCgta",
-            "aXBsaW5lVXNlZBIRCgl0aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiAB",
+            "eWVyGAMgASgLMhUucnRlY2gubGl2ZWFwaS5QbGF5ZXIihwEKElBsYXllckRp",
+            "c2Nvbm5lY3RlZBIRCgl0aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiAB",
             "KAkSJQoGcGxheWVyGAMgASgLMhUucnRlY2gubGl2ZWFwaS5QbGF5ZXISFAoM",
-            "bGlua2VkRW50aXR5GAQgASgJInEKDUdyZW5hZGVUaHJvd24SEQoJdGltZXN0",
-            "YW1wGAEgASgEEhAKCGNhdGVnb3J5GAIgASgJEiUKBnBsYXllchgDIAEoCzIV",
-            "LnJ0ZWNoLmxpdmVhcGkuUGxheWVyEhQKDGxpbmtlZEVudGl0eRgEIAEoCSJt",
-            "ChFCbGFja01hcmtldEFjdGlvbhIRCgl0aW1lc3RhbXAYASABKAQSEAoIY2F0",
-            "ZWdvcnkYAiABKAkSJQoGcGxheWVyGAMgASgLMhUucnRlY2gubGl2ZWFwaS5Q",
-            "bGF5ZXISDAoEaXRlbRgEIAEoCSJaCgxXcmFpdGhQb3J0YWwSEQoJdGltZXN0",
-            "YW1wGAEgASgEEhAKCGNhdGVnb3J5GAIgASgJEiUKBnBsYXllchgDIAEoCzIV",
-            "LnJ0ZWNoLmxpdmVhcGkuUGxheWVyIloKDFdhcnBHYXRlVXNlZBIRCgl0aW1l",
-            "c3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiABKAkSJQoGcGxheWVyGAMgASgL",
-            "MhUucnRlY2gubGl2ZWFwaS5QbGF5ZXIiqAEKCEFtbW9Vc2VkEhEKCXRpbWVz",
-            "dGFtcBgBIAEoBBIQCghjYXRlZ29yeRgCIAEoCRIlCgZwbGF5ZXIYAyABKAsy",
-            "FS5ydGVjaC5saXZlYXBpLlBsYXllchIQCghhbW1vVHlwZRgEIAEoCRISCgph",
-            "bW91bnRVc2VkGAUgASgNEhQKDG9sZEFtbW9Db3VudBgGIAEoDRIUCgxuZXdB",
-            "bW1vQ291bnQYByABKA0iggEKDldlYXBvblN3aXRjaGVkEhEKCXRpbWVzdGFt",
+            "Y2FuUmVjb25uZWN0GAQgASgIEg8KB2lzQWxpdmUYBSABKAgigwEKEVBsYXll",
+            "clN0YXRDaGFuZ2VkEhEKCXRpbWVzdGFtcBgBIAEoBBIQCghjYXRlZ29yeRgC",
+            "IAEoCRIlCgZwbGF5ZXIYAyABKAsyFS5ydGVjaC5saXZlYXBpLlBsYXllchIQ",
+            "CghzdGF0TmFtZRgEIAEoCRIQCghuZXdWYWx1ZRgFIAEoDSJ1ChhQbGF5ZXJV",
+            "cGdyYWRlVGllckNoYW5nZWQSEQoJdGltZXN0YW1wGAEgASgEEhAKCGNhdGVn",
+            "b3J5GAIgASgJEiUKBnBsYXllchgDIAEoCzIVLnJ0ZWNoLmxpdmVhcGkuUGxh",
+            "eWVyEg0KBWxldmVsGAQgASgFIq0BCg1QbGF5ZXJEYW1hZ2VkEhEKCXRpbWVz",
+            "dGFtcBgBIAEoBBIQCghjYXRlZ29yeRgCIAEoCRInCghhdHRhY2tlchgDIAEo",
+            "CzIVLnJ0ZWNoLmxpdmVhcGkuUGxheWVyEiUKBnZpY3RpbRgEIAEoCzIVLnJ0",
+            "ZWNoLmxpdmVhcGkuUGxheWVyEg4KBndlYXBvbhgFIAEoCRIXCg9kYW1hZ2VJ",
+            "bmZsaWN0ZWQYBiABKA0imQEKDFBsYXllcktpbGxlZBIRCgl0aW1lc3RhbXAY",
+            "ASABKAQSEAoIY2F0ZWdvcnkYAiABKAkSJwoIYXR0YWNrZXIYAyABKAsyFS5y",
+            "dGVjaC5saXZlYXBpLlBsYXllchIlCgZ2aWN0aW0YBCABKAsyFS5ydGVjaC5s",
+            "aXZlYXBpLlBsYXllchIOCgZ3ZWFwb24YBiABKAlKBAgFEAYikwEKDFBsYXll",
+            "ckRvd25lZBIRCgl0aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiABKAkS",
+            "JwoIYXR0YWNrZXIYAyABKAsyFS5ydGVjaC5saXZlYXBpLlBsYXllchIlCgZ2",
+            "aWN0aW0YBCABKAsyFS5ydGVjaC5saXZlYXBpLlBsYXllchIOCgZ3ZWFwb24Y",
+            "BSABKAkilAEKDFBsYXllckFzc2lzdBIRCgl0aW1lc3RhbXAYASABKAQSEAoI",
+            "Y2F0ZWdvcnkYAiABKAkSKAoJYXNzaXN0YW50GAMgASgLMhUucnRlY2gubGl2",
+            "ZWFwaS5QbGF5ZXISJQoGdmljdGltGAQgASgLMhUucnRlY2gubGl2ZWFwaS5Q",
+            "bGF5ZXISDgoGd2VhcG9uGAUgASgJIl4KD1NxdWFkRWxpbWluYXRlZBIRCgl0",
+            "aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiABKAkSJgoHcGxheWVycxgD",
+            "IAMoCzIVLnJ0ZWNoLmxpdmVhcGkuUGxheWVyIqcBChdHaWJyYWx0YXJTaGll",
+            "bGRBYnNvcmJlZBIRCgl0aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiAB",
+            "KAkSJwoIYXR0YWNrZXIYAyABKAsyFS5ydGVjaC5saXZlYXBpLlBsYXllchIl",
+            "CgZ2aWN0aW0YBCABKAsyFS5ydGVjaC5saXZlYXBpLlBsYXllchIXCg9kYW1h",
+            "Z2VJbmZsaWN0ZWQYBiABKA0iqwEKG1JldmVuYW50Rm9yZ2VkU2hhZG93RGFt",
+            "YWdlZBIRCgl0aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiABKAkSJwoI",
+            "YXR0YWNrZXIYAyABKAsyFS5ydGVjaC5saXZlYXBpLlBsYXllchIlCgZ2aWN0",
+            "aW0YBCABKAsyFS5ydGVjaC5saXZlYXBpLlBsYXllchIXCg9kYW1hZ2VJbmZs",
+            "aWN0ZWQYBiABKA0icgoRUGxheWVyUmVzcGF3blRlYW0SEQoJdGltZXN0YW1w",
+            "GAEgASgEEhAKCGNhdGVnb3J5GAIgASgJEiUKBnBsYXllchgDIAEoCzIVLnJ0",
+            "ZWNoLmxpdmVhcGkuUGxheWVyEhEKCXJlc3Bhd25lZBgEIAEoCSKCAQoMUGxh",
+            "eWVyUmV2aXZlEhEKCXRpbWVzdGFtcBgBIAEoBBIQCghjYXRlZ29yeRgCIAEo",
+            "CRIlCgZwbGF5ZXIYAyABKAsyFS5ydGVjaC5saXZlYXBpLlBsYXllchImCgdy",
+            "ZXZpdmVkGAQgASgLMhUucnRlY2gubGl2ZWFwaS5QbGF5ZXIigAEKEkFyZW5h",
+            "c0l0ZW1TZWxlY3RlZBIRCgl0aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkY",
+            "AiABKAkSJQoGcGxheWVyGAMgASgLMhUucnRlY2gubGl2ZWFwaS5QbGF5ZXIS",
+            "DAoEaXRlbRgEIAEoCRIQCghxdWFudGl0eRgFIAEoBSKCAQoUQXJlbmFzSXRl",
+            "bURlc2VsZWN0ZWQSEQoJdGltZXN0YW1wGAEgASgEEhAKCGNhdGVnb3J5GAIg",
+            "ASgJEiUKBnBsYXllchgDIAEoCzIVLnJ0ZWNoLmxpdmVhcGkuUGxheWVyEgwK",
+            "BGl0ZW0YBCABKAkSEAoIcXVhbnRpdHkYBSABKAUifQoPSW52ZW50b3J5UGlj",
+            "a1VwEhEKCXRpbWVzdGFtcBgBIAEoBBIQCghjYXRlZ29yeRgCIAEoCRIlCgZw",
+            "bGF5ZXIYAyABKAsyFS5ydGVjaC5saXZlYXBpLlBsYXllchIMCgRpdGVtGAQg",
+            "ASgJEhAKCHF1YW50aXR5GAUgASgFIo4BCg1JbnZlbnRvcnlEcm9wEhEKCXRp",
+            "bWVzdGFtcBgBIAEoBBIQCghjYXRlZ29yeRgCIAEoCRIlCgZwbGF5ZXIYAyAB",
+            "KAsyFS5ydGVjaC5saXZlYXBpLlBsYXllchIMCgRpdGVtGAQgASgJEhAKCHF1",
+            "YW50aXR5GAUgASgFEhEKCWV4dHJhRGF0YRgGIAMoCSJ6CgxJbnZlbnRvcnlV",
+            "c2USEQoJdGltZXN0YW1wGAEgASgEEhAKCGNhdGVnb3J5GAIgASgJEiUKBnBs",
+            "YXllchgDIAEoCzIVLnJ0ZWNoLmxpdmVhcGkuUGxheWVyEgwKBGl0ZW0YBCAB",
+            "KAkSEAoIcXVhbnRpdHkYBSABKAUihwEKD0Jhbm5lckNvbGxlY3RlZBIRCgl0",
+            "aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiABKAkSJQoGcGxheWVyGAMg",
+            "ASgLMhUucnRlY2gubGl2ZWFwaS5QbGF5ZXISKAoJY29sbGVjdGVkGAQgASgL",
+            "MhUucnRlY2gubGl2ZWFwaS5QbGF5ZXIidQoRUGxheWVyQWJpbGl0eVVzZWQS",
+            "EQoJdGltZXN0YW1wGAEgASgEEhAKCGNhdGVnb3J5GAIgASgJEiUKBnBsYXll",
+            "chgDIAEoCzIVLnJ0ZWNoLmxpdmVhcGkuUGxheWVyEhQKDGxpbmtlZEVudGl0",
+            "eRgEIAEoCSKcAQoVTGVnZW5kVXBncmFkZVNlbGVjdGVkEhEKCXRpbWVzdGFt",
             "cBgBIAEoBBIQCghjYXRlZ29yeRgCIAEoCRIlCgZwbGF5ZXIYAyABKAsyFS5y",
-            "dGVjaC5saXZlYXBpLlBsYXllchIRCglvbGRXZWFwb24YBCABKAkSEQoJbmV3",
-            "V2VhcG9uGAUgASgJIlgKDENoYW5nZUNhbWVyYRIuCgNwb2kYASABKA4yHy5y",
-            "dGVjaC5saXZlYXBpLlBsYXllck9mSW50ZXJlc3RIABIOCgRuYW1lGAIgASgJ",
-            "SABCCAoGdGFyZ2V0Ih8KC1BhdXNlVG9nZ2xlEhAKCHByZVRpbWVyGAEgASgC",
-            "IhkKF0N1c3RvbU1hdGNoX0NyZWF0ZUxvYmJ5IioKFUN1c3RvbU1hdGNoX0pv",
-            "aW5Mb2JieRIRCglyb2xlVG9rZW4YASABKAkiGAoWQ3VzdG9tTWF0Y2hfTGVh",
-            "dmVMb2JieSInChRDdXN0b21NYXRjaF9TZXRSZWFkeRIPCgdpc1JlYWR5GAEg",
-            "ASgIIh0KG0N1c3RvbU1hdGNoX0dldExvYmJ5UGxheWVycyItChpDdXN0b21N",
-            "YXRjaF9TZXRNYXRjaG1ha2luZxIPCgdlbmFibGVkGAEgASgIIlwKE0N1c3Rv",
-            "bU1hdGNoX1NldFRlYW0SDgoGdGVhbUlkGAEgASgFEhoKEnRhcmdldEhhcmR3",
-            "YXJlTmFtZRgCIAEoCRIZChF0YXJnZXROdWNsZXVzSGFzaBgDIAEoCSJPChZD",
-            "dXN0b21NYXRjaF9LaWNrUGxheWVyEhoKEnRhcmdldEhhcmR3YXJlTmFtZRgB",
-            "IAEoCRIZChF0YXJnZXROdWNsZXVzSGFzaBgCIAEoCSKPAQoXQ3VzdG9tTWF0",
-            "Y2hfU2V0U2V0dGluZ3MSFAoMcGxheWxpc3ROYW1lGAEgASgJEhEKCWFkbWlu",
-            "Q2hhdBgCIAEoCBISCgp0ZWFtUmVuYW1lGAMgASgIEhIKCnNlbGZBc3NpZ24Y",
-            "BCABKAgSEQoJYWltQXNzaXN0GAUgASgIEhAKCGFub25Nb2RlGAYgASgIIjsK",
-            "F0N1c3RvbU1hdGNoX1NldFRlYW1OYW1lEg4KBnRlYW1JZBgBIAEoBRIQCgh0",
-            "ZWFtTmFtZRgCIAEoCSIkChRDdXN0b21NYXRjaF9TZW5kQ2hhdBIMCgR0ZXh0",
-            "GAEgASgJIssHCgdSZXF1ZXN0Eg8KB3dpdGhBY2sYASABKAgSFAoMcHJlU2hh",
-            "cmVkS2V5GAIgASgJEjAKCWNoYW5nZUNhbRgEIAEoCzIbLnJ0ZWNoLmxpdmVh",
-            "cGkuQ2hhbmdlQ2FtZXJhSAASMQoLcGF1c2VUb2dnbGUYBSABKAsyGi5ydGVj",
-            "aC5saXZlYXBpLlBhdXNlVG9nZ2xlSAASSQoXY3VzdG9tTWF0Y2hfQ3JlYXRl",
-            "TG9iYnkYCiABKAsyJi5ydGVjaC5saXZlYXBpLkN1c3RvbU1hdGNoX0NyZWF0",
-            "ZUxvYmJ5SAASRQoVY3VzdG9tTWF0Y2hfSm9pbkxvYmJ5GAsgASgLMiQucnRl",
-            "Y2gubGl2ZWFwaS5DdXN0b21NYXRjaF9Kb2luTG9iYnlIABJHChZjdXN0b21N",
-            "YXRjaF9MZWF2ZUxvYmJ5GAwgASgLMiUucnRlY2gubGl2ZWFwaS5DdXN0b21N",
-            "YXRjaF9MZWF2ZUxvYmJ5SAASQwoUY3VzdG9tTWF0Y2hfU2V0UmVhZHkYDSAB",
-            "KAsyIy5ydGVjaC5saXZlYXBpLkN1c3RvbU1hdGNoX1NldFJlYWR5SAASTwoa",
-            "Y3VzdG9tTWF0Y2hfU2V0TWF0Y2htYWtpbmcYDiABKAsyKS5ydGVjaC5saXZl",
-            "YXBpLkN1c3RvbU1hdGNoX1NldE1hdGNobWFraW5nSAASQQoTY3VzdG9tTWF0",
-            "Y2hfU2V0VGVhbRgPIAEoCzIiLnJ0ZWNoLmxpdmVhcGkuQ3VzdG9tTWF0Y2hf",
-            "U2V0VGVhbUgAEkcKFmN1c3RvbU1hdGNoX0tpY2tQbGF5ZXIYECABKAsyJS5y",
-            "dGVjaC5saXZlYXBpLkN1c3RvbU1hdGNoX0tpY2tQbGF5ZXJIABJJChdjdXN0",
-            "b21NYXRjaF9TZXRTZXR0aW5ncxgRIAEoCzImLnJ0ZWNoLmxpdmVhcGkuQ3Vz",
-            "dG9tTWF0Y2hfU2V0U2V0dGluZ3NIABJDChRjdXN0b21NYXRjaF9TZW5kQ2hh",
-            "dBgSIAEoCzIjLnJ0ZWNoLmxpdmVhcGkuQ3VzdG9tTWF0Y2hfU2VuZENoYXRI",
-            "ABJRChtjdXN0b21NYXRjaF9HZXRMb2JieVBsYXllcnMYEyABKAsyKi5ydGVj",
-            "aC5saXZlYXBpLkN1c3RvbU1hdGNoX0dldExvYmJ5UGxheWVyc0gAEkkKF2N1",
-            "c3RvbU1hdGNoX1NldFRlYW1OYW1lGBQgASgLMiYucnRlY2gubGl2ZWFwaS5D",
-            "dXN0b21NYXRjaF9TZXRUZWFtTmFtZUgAQgkKB2FjdGlvbnMiHwoNUmVxdWVz",
-            "dFN0YXR1cxIOCgZzdGF0dXMYASABKAkiQQoIUmVzcG9uc2USDwoHc3VjY2Vz",
-            "cxgBIAEoCBIkCgZyZXN1bHQYAiABKAsyFC5nb29nbGUucHJvdG9idWYuQW55",
-            "Ik0KDExpdmVBUElFdmVudBISCgpldmVudF9zaXplGAEgASgHEikKC2dhbWVN",
-            "ZXNzYWdlGAMgASgLMhQuZ29vZ2xlLnByb3RvYnVmLkFueSqIAQoQUGxheWVy",
-            "T2ZJbnRlcmVzdBIPCgtVTlNQRUNJRklFRBAAEggKBE5FWFQQARIMCghQUkVW",
-            "SU9VUxACEg8KC0tJTExfTEVBREVSEAMSEQoNQ0xPU0VTVF9FTkVNWRAEEhIK",
-            "DkNMT1NFU1RfUExBWUVSEAUSEwoPTEFURVNUX0FUVEFDS0VSEAZiBnByb3Rv",
-            "Mw=="));
+            "dGVjaC5saXZlYXBpLlBsYXllchITCgt1cGdyYWRlTmFtZRgEIAEoCRITCgt1",
+            "cGdyYWRlRGVzYxgFIAEoCRINCgVsZXZlbBgGIAEoBSJvCgtaaXBsaW5lVXNl",
+            "ZBIRCgl0aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiABKAkSJQoGcGxh",
+            "eWVyGAMgASgLMhUucnRlY2gubGl2ZWFwaS5QbGF5ZXISFAoMbGlua2VkRW50",
+            "aXR5GAQgASgJInEKDUdyZW5hZGVUaHJvd24SEQoJdGltZXN0YW1wGAEgASgE",
+            "EhAKCGNhdGVnb3J5GAIgASgJEiUKBnBsYXllchgDIAEoCzIVLnJ0ZWNoLmxp",
+            "dmVhcGkuUGxheWVyEhQKDGxpbmtlZEVudGl0eRgEIAEoCSJtChFCbGFja01h",
+            "cmtldEFjdGlvbhIRCgl0aW1lc3RhbXAYASABKAQSEAoIY2F0ZWdvcnkYAiAB",
+            "KAkSJQoGcGxheWVyGAMgASgLMhUucnRlY2gubGl2ZWFwaS5QbGF5ZXISDAoE",
+            "aXRlbRgEIAEoCSJaCgxXcmFpdGhQb3J0YWwSEQoJdGltZXN0YW1wGAEgASgE",
+            "EhAKCGNhdGVnb3J5GAIgASgJEiUKBnBsYXllchgDIAEoCzIVLnJ0ZWNoLmxp",
+            "dmVhcGkuUGxheWVyIloKDFdhcnBHYXRlVXNlZBIRCgl0aW1lc3RhbXAYASAB",
+            "KAQSEAoIY2F0ZWdvcnkYAiABKAkSJQoGcGxheWVyGAMgASgLMhUucnRlY2gu",
+            "bGl2ZWFwaS5QbGF5ZXIiqAEKCEFtbW9Vc2VkEhEKCXRpbWVzdGFtcBgBIAEo",
+            "BBIQCghjYXRlZ29yeRgCIAEoCRIlCgZwbGF5ZXIYAyABKAsyFS5ydGVjaC5s",
+            "aXZlYXBpLlBsYXllchIQCghhbW1vVHlwZRgEIAEoCRISCgphbW91bnRVc2Vk",
+            "GAUgASgNEhQKDG9sZEFtbW9Db3VudBgGIAEoDRIUCgxuZXdBbW1vQ291bnQY",
+            "ByABKA0iggEKDldlYXBvblN3aXRjaGVkEhEKCXRpbWVzdGFtcBgBIAEoBBIQ",
+            "CghjYXRlZ29yeRgCIAEoCRIlCgZwbGF5ZXIYAyABKAsyFS5ydGVjaC5saXZl",
+            "YXBpLlBsYXllchIRCglvbGRXZWFwb24YBCABKAkSEQoJbmV3V2VhcG9uGAUg",
+            "ASgJIlgKDENoYW5nZUNhbWVyYRIuCgNwb2kYASABKA4yHy5ydGVjaC5saXZl",
+            "YXBpLlBsYXllck9mSW50ZXJlc3RIABIOCgRuYW1lGAIgASgJSABCCAoGdGFy",
+            "Z2V0Ih8KC1BhdXNlVG9nZ2xlEhAKCHByZVRpbWVyGAEgASgCIhkKF0N1c3Rv",
+            "bU1hdGNoX0NyZWF0ZUxvYmJ5IioKFUN1c3RvbU1hdGNoX0pvaW5Mb2JieRIR",
+            "Cglyb2xlVG9rZW4YASABKAkiGAoWQ3VzdG9tTWF0Y2hfTGVhdmVMb2JieSIn",
+            "ChRDdXN0b21NYXRjaF9TZXRSZWFkeRIPCgdpc1JlYWR5GAEgASgIIh0KG0N1",
+            "c3RvbU1hdGNoX0dldExvYmJ5UGxheWVycyItChpDdXN0b21NYXRjaF9TZXRN",
+            "YXRjaG1ha2luZxIPCgdlbmFibGVkGAEgASgIIlwKE0N1c3RvbU1hdGNoX1Nl",
+            "dFRlYW0SDgoGdGVhbUlkGAEgASgFEhoKEnRhcmdldEhhcmR3YXJlTmFtZRgC",
+            "IAEoCRIZChF0YXJnZXROdWNsZXVzSGFzaBgDIAEoCSJPChZDdXN0b21NYXRj",
+            "aF9LaWNrUGxheWVyEhoKEnRhcmdldEhhcmR3YXJlTmFtZRgBIAEoCRIZChF0",
+            "YXJnZXROdWNsZXVzSGFzaBgCIAEoCSKPAQoXQ3VzdG9tTWF0Y2hfU2V0U2V0",
+            "dGluZ3MSFAoMcGxheWxpc3ROYW1lGAEgASgJEhEKCWFkbWluQ2hhdBgCIAEo",
+            "CBISCgp0ZWFtUmVuYW1lGAMgASgIEhIKCnNlbGZBc3NpZ24YBCABKAgSEQoJ",
+            "YWltQXNzaXN0GAUgASgIEhAKCGFub25Nb2RlGAYgASgIIhkKF0N1c3RvbU1h",
+            "dGNoX0dldFNldHRpbmdzIjsKF0N1c3RvbU1hdGNoX1NldFRlYW1OYW1lEg4K",
+            "BnRlYW1JZBgBIAEoBRIQCgh0ZWFtTmFtZRgCIAEoCSIkChRDdXN0b21NYXRj",
+            "aF9TZW5kQ2hhdBIMCgR0ZXh0GAEgASgJIpYICgdSZXF1ZXN0Eg8KB3dpdGhB",
+            "Y2sYASABKAgSFAoMcHJlU2hhcmVkS2V5GAIgASgJEjAKCWNoYW5nZUNhbRgE",
+            "IAEoCzIbLnJ0ZWNoLmxpdmVhcGkuQ2hhbmdlQ2FtZXJhSAASMQoLcGF1c2VU",
+            "b2dnbGUYBSABKAsyGi5ydGVjaC5saXZlYXBpLlBhdXNlVG9nZ2xlSAASSQoX",
+            "Y3VzdG9tTWF0Y2hfQ3JlYXRlTG9iYnkYCiABKAsyJi5ydGVjaC5saXZlYXBp",
+            "LkN1c3RvbU1hdGNoX0NyZWF0ZUxvYmJ5SAASRQoVY3VzdG9tTWF0Y2hfSm9p",
+            "bkxvYmJ5GAsgASgLMiQucnRlY2gubGl2ZWFwaS5DdXN0b21NYXRjaF9Kb2lu",
+            "TG9iYnlIABJHChZjdXN0b21NYXRjaF9MZWF2ZUxvYmJ5GAwgASgLMiUucnRl",
+            "Y2gubGl2ZWFwaS5DdXN0b21NYXRjaF9MZWF2ZUxvYmJ5SAASQwoUY3VzdG9t",
+            "TWF0Y2hfU2V0UmVhZHkYDSABKAsyIy5ydGVjaC5saXZlYXBpLkN1c3RvbU1h",
+            "dGNoX1NldFJlYWR5SAASTwoaY3VzdG9tTWF0Y2hfU2V0TWF0Y2htYWtpbmcY",
+            "DiABKAsyKS5ydGVjaC5saXZlYXBpLkN1c3RvbU1hdGNoX1NldE1hdGNobWFr",
+            "aW5nSAASQQoTY3VzdG9tTWF0Y2hfU2V0VGVhbRgPIAEoCzIiLnJ0ZWNoLmxp",
+            "dmVhcGkuQ3VzdG9tTWF0Y2hfU2V0VGVhbUgAEkcKFmN1c3RvbU1hdGNoX0tp",
+            "Y2tQbGF5ZXIYECABKAsyJS5ydGVjaC5saXZlYXBpLkN1c3RvbU1hdGNoX0tp",
+            "Y2tQbGF5ZXJIABJJChdjdXN0b21NYXRjaF9TZXRTZXR0aW5ncxgRIAEoCzIm",
+            "LnJ0ZWNoLmxpdmVhcGkuQ3VzdG9tTWF0Y2hfU2V0U2V0dGluZ3NIABJDChRj",
+            "dXN0b21NYXRjaF9TZW5kQ2hhdBgSIAEoCzIjLnJ0ZWNoLmxpdmVhcGkuQ3Vz",
+            "dG9tTWF0Y2hfU2VuZENoYXRIABJRChtjdXN0b21NYXRjaF9HZXRMb2JieVBs",
+            "YXllcnMYEyABKAsyKi5ydGVjaC5saXZlYXBpLkN1c3RvbU1hdGNoX0dldExv",
+            "YmJ5UGxheWVyc0gAEkkKF2N1c3RvbU1hdGNoX1NldFRlYW1OYW1lGBQgASgL",
+            "MiYucnRlY2gubGl2ZWFwaS5DdXN0b21NYXRjaF9TZXRUZWFtTmFtZUgAEkkK",
+            "F2N1c3RvbU1hdGNoX0dldFNldHRpbmdzGBUgASgLMiYucnRlY2gubGl2ZWFw",
+            "aS5DdXN0b21NYXRjaF9HZXRTZXR0aW5nc0gAQgkKB2FjdGlvbnMiHwoNUmVx",
+            "dWVzdFN0YXR1cxIOCgZzdGF0dXMYASABKAkiQQoIUmVzcG9uc2USDwoHc3Vj",
+            "Y2VzcxgBIAEoCBIkCgZyZXN1bHQYAiABKAsyFC5nb29nbGUucHJvdG9idWYu",
+            "QW55Ik0KDExpdmVBUElFdmVudBISCgpldmVudF9zaXplGAEgASgHEikKC2dh",
+            "bWVNZXNzYWdlGAMgASgLMhQuZ29vZ2xlLnByb3RvYnVmLkFueSqIAQoQUGxh",
+            "eWVyT2ZJbnRlcmVzdBIPCgtVTlNQRUNJRklFRBAAEggKBE5FWFQQARIMCghQ",
+            "UkVWSU9VUxACEg8KC0tJTExfTEVBREVSEAMSEQoNQ0xPU0VTVF9FTkVNWRAE",
+            "EhIKDkNMT1NFU1RfUExBWUVSEAUSEwoPTEFURVNUX0FUVEFDS0VSEAZiBnBy",
+            "b3RvMw=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.WellKnownTypes.AnyReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::Rtech.Liveapi.PlayerOfInterest), }, null, new pbr::GeneratedClrTypeInfo[] {
@@ -197,11 +214,13 @@ namespace Rtech.Liveapi {
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.CustomMatch_LobbyPlayer), global::Rtech.Liveapi.CustomMatch_LobbyPlayer.Parser, new[]{ "Name", "TeamId", "NucleusHash", "HardwareName" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.Datacenter), global::Rtech.Liveapi.Datacenter.Parser, new[]{ "Timestamp", "Category", "Name" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.Version), global::Rtech.Liveapi.Version.Parser, new[]{ "MajorNum", "MinorNum", "BuildStamp", "Revision" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.InventoryItem), global::Rtech.Liveapi.InventoryItem.Parser, new[]{ "Quantity", "Item", "ExtraData" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.LoadoutConfiguration), global::Rtech.Liveapi.LoadoutConfiguration.Parser, new[]{ "Weapons", "Equipment" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.Init), global::Rtech.Liveapi.Init.Parser, new[]{ "Timestamp", "Category", "GameVersion", "ApiVersion", "Platform", "Name" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.CustomMatch_LobbyPlayers), global::Rtech.Liveapi.CustomMatch_LobbyPlayers.Parser, new[]{ "PlayerToken", "Players" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.ObserverSwitched), global::Rtech.Liveapi.ObserverSwitched.Parser, new[]{ "Timestamp", "Category", "Observer", "Target", "TargetTeam" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.ObserverAnnotation), global::Rtech.Liveapi.ObserverAnnotation.Parser, new[]{ "Timestamp", "Category", "AnnotationSerial" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.MatchSetup), global::Rtech.Liveapi.MatchSetup.Parser, new[]{ "Timestamp", "Category", "Map", "PlaylistName", "PlaylistDesc", "Datacenter", "AimAssistOn", "AnonymousMode", "ServerId" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.MatchSetup), global::Rtech.Liveapi.MatchSetup.Parser, new[]{ "Timestamp", "Category", "Map", "PlaylistName", "PlaylistDesc", "Datacenter", "AimAssistOn", "AnonymousMode", "ServerId", "StartingLoadout" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.GameStateChanged), global::Rtech.Liveapi.GameStateChanged.Parser, new[]{ "Timestamp", "Category", "State" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.CharacterSelected), global::Rtech.Liveapi.CharacterSelected.Parser, new[]{ "Timestamp", "Category", "Player" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.MatchStateEnd), global::Rtech.Liveapi.MatchStateEnd.Parser, new[]{ "Timestamp", "Category", "State", "Winners" }, null, null, null, null),
@@ -210,12 +229,14 @@ namespace Rtech.Liveapi {
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.PlayerConnected), global::Rtech.Liveapi.PlayerConnected.Parser, new[]{ "Timestamp", "Category", "Player" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.PlayerDisconnected), global::Rtech.Liveapi.PlayerDisconnected.Parser, new[]{ "Timestamp", "Category", "Player", "CanReconnect", "IsAlive" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.PlayerStatChanged), global::Rtech.Liveapi.PlayerStatChanged.Parser, new[]{ "Timestamp", "Category", "Player", "StatName", "NewValue" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.PlayerUpgradeTierChanged), global::Rtech.Liveapi.PlayerUpgradeTierChanged.Parser, new[]{ "Timestamp", "Category", "Player", "Level" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.PlayerDamaged), global::Rtech.Liveapi.PlayerDamaged.Parser, new[]{ "Timestamp", "Category", "Attacker", "Victim", "Weapon", "DamageInflicted" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.PlayerKilled), global::Rtech.Liveapi.PlayerKilled.Parser, new[]{ "Timestamp", "Category", "Attacker", "Victim", "AwardedTo", "Weapon" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.PlayerKilled), global::Rtech.Liveapi.PlayerKilled.Parser, new[]{ "Timestamp", "Category", "Attacker", "Victim", "Weapon" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.PlayerDowned), global::Rtech.Liveapi.PlayerDowned.Parser, new[]{ "Timestamp", "Category", "Attacker", "Victim", "Weapon" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.PlayerAssist), global::Rtech.Liveapi.PlayerAssist.Parser, new[]{ "Timestamp", "Category", "Assistant", "Victim", "Weapon" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.SquadEliminated), global::Rtech.Liveapi.SquadEliminated.Parser, new[]{ "Timestamp", "Category", "Players" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.GibraltarShieldAbsorbed), global::Rtech.Liveapi.GibraltarShieldAbsorbed.Parser, new[]{ "Timestamp", "Category", "Attacker", "Victim", "DamageInflicted" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.RevenantForgedShadowDamaged), global::Rtech.Liveapi.RevenantForgedShadowDamaged.Parser, new[]{ "Timestamp", "Category", "Attacker", "Victim", "DamageInflicted" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.PlayerRespawnTeam), global::Rtech.Liveapi.PlayerRespawnTeam.Parser, new[]{ "Timestamp", "Category", "Player", "Respawned" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.PlayerRevive), global::Rtech.Liveapi.PlayerRevive.Parser, new[]{ "Timestamp", "Category", "Player", "Revived" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.ArenasItemSelected), global::Rtech.Liveapi.ArenasItemSelected.Parser, new[]{ "Timestamp", "Category", "Player", "Item", "Quantity" }, null, null, null, null),
@@ -225,6 +246,7 @@ namespace Rtech.Liveapi {
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.InventoryUse), global::Rtech.Liveapi.InventoryUse.Parser, new[]{ "Timestamp", "Category", "Player", "Item", "Quantity" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.BannerCollected), global::Rtech.Liveapi.BannerCollected.Parser, new[]{ "Timestamp", "Category", "Player", "Collected" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.PlayerAbilityUsed), global::Rtech.Liveapi.PlayerAbilityUsed.Parser, new[]{ "Timestamp", "Category", "Player", "LinkedEntity" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.LegendUpgradeSelected), global::Rtech.Liveapi.LegendUpgradeSelected.Parser, new[]{ "Timestamp", "Category", "Player", "UpgradeName", "UpgradeDesc", "Level" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.ZiplineUsed), global::Rtech.Liveapi.ZiplineUsed.Parser, new[]{ "Timestamp", "Category", "Player", "LinkedEntity" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.GrenadeThrown), global::Rtech.Liveapi.GrenadeThrown.Parser, new[]{ "Timestamp", "Category", "Player", "LinkedEntity" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.BlackMarketAction), global::Rtech.Liveapi.BlackMarketAction.Parser, new[]{ "Timestamp", "Category", "Player", "Item" }, null, null, null, null),
@@ -243,9 +265,10 @@ namespace Rtech.Liveapi {
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.CustomMatch_SetTeam), global::Rtech.Liveapi.CustomMatch_SetTeam.Parser, new[]{ "TeamId", "TargetHardwareName", "TargetNucleusHash" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.CustomMatch_KickPlayer), global::Rtech.Liveapi.CustomMatch_KickPlayer.Parser, new[]{ "TargetHardwareName", "TargetNucleusHash" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.CustomMatch_SetSettings), global::Rtech.Liveapi.CustomMatch_SetSettings.Parser, new[]{ "PlaylistName", "AdminChat", "TeamRename", "SelfAssign", "AimAssist", "AnonMode" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.CustomMatch_GetSettings), global::Rtech.Liveapi.CustomMatch_GetSettings.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.CustomMatch_SetTeamName), global::Rtech.Liveapi.CustomMatch_SetTeamName.Parser, new[]{ "TeamId", "TeamName" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.CustomMatch_SendChat), global::Rtech.Liveapi.CustomMatch_SendChat.Parser, new[]{ "Text" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.Request), global::Rtech.Liveapi.Request.Parser, new[]{ "WithAck", "PreSharedKey", "ChangeCam", "PauseToggle", "CustomMatchCreateLobby", "CustomMatchJoinLobby", "CustomMatchLeaveLobby", "CustomMatchSetReady", "CustomMatchSetMatchmaking", "CustomMatchSetTeam", "CustomMatchKickPlayer", "CustomMatchSetSettings", "CustomMatchSendChat", "CustomMatchGetLobbyPlayers", "CustomMatchSetTeamName" }, new[]{ "Actions" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.Request), global::Rtech.Liveapi.Request.Parser, new[]{ "WithAck", "PreSharedKey", "ChangeCam", "PauseToggle", "CustomMatchCreateLobby", "CustomMatchJoinLobby", "CustomMatchLeaveLobby", "CustomMatchSetReady", "CustomMatchSetMatchmaking", "CustomMatchSetTeam", "CustomMatchKickPlayer", "CustomMatchSetSettings", "CustomMatchSendChat", "CustomMatchGetLobbyPlayers", "CustomMatchSetTeamName", "CustomMatchGetSettings" }, new[]{ "Actions" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.RequestStatus), global::Rtech.Liveapi.RequestStatus.Parser, new[]{ "Status" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.Response), global::Rtech.Liveapi.Response.Parser, new[]{ "Success", "Result" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Rtech.Liveapi.LiveAPIEvent), global::Rtech.Liveapi.LiveAPIEvent.Parser, new[]{ "EventSize", "GameMessage" }, null, null, null, null)
@@ -2096,6 +2119,478 @@ namespace Rtech.Liveapi {
 
   }
 
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class InventoryItem : pb::IMessage<InventoryItem>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<InventoryItem> _parser = new pb::MessageParser<InventoryItem>(() => new InventoryItem());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<InventoryItem> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[5]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public InventoryItem() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public InventoryItem(InventoryItem other) : this() {
+      quantity_ = other.quantity_;
+      item_ = other.item_;
+      extraData_ = other.extraData_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public InventoryItem Clone() {
+      return new InventoryItem(this);
+    }
+
+    /// <summary>Field number for the "quantity" field.</summary>
+    public const int QuantityFieldNumber = 1;
+    private int quantity_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int Quantity {
+      get { return quantity_; }
+      set {
+        quantity_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "item" field.</summary>
+    public const int ItemFieldNumber = 2;
+    private string item_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string Item {
+      get { return item_; }
+      set {
+        item_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "extraData" field.</summary>
+    public const int ExtraDataFieldNumber = 3;
+    private string extraData_ = "";
+    /// <summary>
+    /// any mods or additional info on the item
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string ExtraData {
+      get { return extraData_; }
+      set {
+        extraData_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as InventoryItem);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(InventoryItem other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (Quantity != other.Quantity) return false;
+      if (Item != other.Item) return false;
+      if (ExtraData != other.ExtraData) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (Quantity != 0) hash ^= Quantity.GetHashCode();
+      if (Item.Length != 0) hash ^= Item.GetHashCode();
+      if (ExtraData.Length != 0) hash ^= ExtraData.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (Quantity != 0) {
+        output.WriteRawTag(8);
+        output.WriteInt32(Quantity);
+      }
+      if (Item.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(Item);
+      }
+      if (ExtraData.Length != 0) {
+        output.WriteRawTag(26);
+        output.WriteString(ExtraData);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Quantity != 0) {
+        output.WriteRawTag(8);
+        output.WriteInt32(Quantity);
+      }
+      if (Item.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(Item);
+      }
+      if (ExtraData.Length != 0) {
+        output.WriteRawTag(26);
+        output.WriteString(ExtraData);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (Quantity != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Quantity);
+      }
+      if (Item.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(Item);
+      }
+      if (ExtraData.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(ExtraData);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(InventoryItem other) {
+      if (other == null) {
+        return;
+      }
+      if (other.Quantity != 0) {
+        Quantity = other.Quantity;
+      }
+      if (other.Item.Length != 0) {
+        Item = other.Item;
+      }
+      if (other.ExtraData.Length != 0) {
+        ExtraData = other.ExtraData;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            Quantity = input.ReadInt32();
+            break;
+          }
+          case 18: {
+            Item = input.ReadString();
+            break;
+          }
+          case 26: {
+            ExtraData = input.ReadString();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 8: {
+            Quantity = input.ReadInt32();
+            break;
+          }
+          case 18: {
+            Item = input.ReadString();
+            break;
+          }
+          case 26: {
+            ExtraData = input.ReadString();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class LoadoutConfiguration : pb::IMessage<LoadoutConfiguration>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<LoadoutConfiguration> _parser = new pb::MessageParser<LoadoutConfiguration>(() => new LoadoutConfiguration());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<LoadoutConfiguration> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[6]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public LoadoutConfiguration() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public LoadoutConfiguration(LoadoutConfiguration other) : this() {
+      weapons_ = other.weapons_.Clone();
+      equipment_ = other.equipment_.Clone();
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public LoadoutConfiguration Clone() {
+      return new LoadoutConfiguration(this);
+    }
+
+    /// <summary>Field number for the "weapons" field.</summary>
+    public const int WeaponsFieldNumber = 1;
+    private static readonly pb::FieldCodec<global::Rtech.Liveapi.InventoryItem> _repeated_weapons_codec
+        = pb::FieldCodec.ForMessage(10, global::Rtech.Liveapi.InventoryItem.Parser);
+    private readonly pbc::RepeatedField<global::Rtech.Liveapi.InventoryItem> weapons_ = new pbc::RepeatedField<global::Rtech.Liveapi.InventoryItem>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pbc::RepeatedField<global::Rtech.Liveapi.InventoryItem> Weapons {
+      get { return weapons_; }
+    }
+
+    /// <summary>Field number for the "equipment" field.</summary>
+    public const int EquipmentFieldNumber = 2;
+    private static readonly pb::FieldCodec<global::Rtech.Liveapi.InventoryItem> _repeated_equipment_codec
+        = pb::FieldCodec.ForMessage(18, global::Rtech.Liveapi.InventoryItem.Parser);
+    private readonly pbc::RepeatedField<global::Rtech.Liveapi.InventoryItem> equipment_ = new pbc::RepeatedField<global::Rtech.Liveapi.InventoryItem>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pbc::RepeatedField<global::Rtech.Liveapi.InventoryItem> Equipment {
+      get { return equipment_; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as LoadoutConfiguration);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(LoadoutConfiguration other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if(!weapons_.Equals(other.weapons_)) return false;
+      if(!equipment_.Equals(other.equipment_)) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      hash ^= weapons_.GetHashCode();
+      hash ^= equipment_.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      weapons_.WriteTo(output, _repeated_weapons_codec);
+      equipment_.WriteTo(output, _repeated_equipment_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      weapons_.WriteTo(ref output, _repeated_weapons_codec);
+      equipment_.WriteTo(ref output, _repeated_equipment_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      size += weapons_.CalculateSize(_repeated_weapons_codec);
+      size += equipment_.CalculateSize(_repeated_equipment_codec);
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(LoadoutConfiguration other) {
+      if (other == null) {
+        return;
+      }
+      weapons_.Add(other.weapons_);
+      equipment_.Add(other.equipment_);
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            weapons_.AddEntriesFrom(input, _repeated_weapons_codec);
+            break;
+          }
+          case 18: {
+            equipment_.AddEntriesFrom(input, _repeated_equipment_codec);
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            weapons_.AddEntriesFrom(ref input, _repeated_weapons_codec);
+            break;
+          }
+          case 18: {
+            equipment_.AddEntriesFrom(ref input, _repeated_equipment_codec);
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
   /// <summary>
   /// Traffic initialization
   /// This message is sent upon successfully connecting over WebSockets
@@ -2115,7 +2610,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[5]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[7]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -2506,7 +3001,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[6]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[8]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -2725,7 +3220,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[7]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[9]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -3073,7 +3568,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[8]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[10]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -3340,7 +3835,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[9]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[11]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -3369,6 +3864,7 @@ namespace Rtech.Liveapi {
       aimAssistOn_ = other.aimAssistOn_;
       anonymousMode_ = other.anonymousMode_;
       serverId_ = other.serverId_;
+      startingLoadout_ = other.startingLoadout_ != null ? other.startingLoadout_.Clone() : null;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -3486,6 +3982,18 @@ namespace Rtech.Liveapi {
       }
     }
 
+    /// <summary>Field number for the "startingLoadout" field.</summary>
+    public const int StartingLoadoutFieldNumber = 10;
+    private global::Rtech.Liveapi.LoadoutConfiguration startingLoadout_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::Rtech.Liveapi.LoadoutConfiguration StartingLoadout {
+      get { return startingLoadout_; }
+      set {
+        startingLoadout_ = value;
+      }
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -3510,6 +4018,7 @@ namespace Rtech.Liveapi {
       if (AimAssistOn != other.AimAssistOn) return false;
       if (AnonymousMode != other.AnonymousMode) return false;
       if (ServerId != other.ServerId) return false;
+      if (!object.Equals(StartingLoadout, other.StartingLoadout)) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -3526,6 +4035,7 @@ namespace Rtech.Liveapi {
       if (AimAssistOn != false) hash ^= AimAssistOn.GetHashCode();
       if (AnonymousMode != false) hash ^= AnonymousMode.GetHashCode();
       if (ServerId.Length != 0) hash ^= ServerId.GetHashCode();
+      if (startingLoadout_ != null) hash ^= StartingLoadout.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -3580,6 +4090,10 @@ namespace Rtech.Liveapi {
         output.WriteRawTag(74);
         output.WriteString(ServerId);
       }
+      if (startingLoadout_ != null) {
+        output.WriteRawTag(82);
+        output.WriteMessage(StartingLoadout);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -3626,6 +4140,10 @@ namespace Rtech.Liveapi {
         output.WriteRawTag(74);
         output.WriteString(ServerId);
       }
+      if (startingLoadout_ != null) {
+        output.WriteRawTag(82);
+        output.WriteMessage(StartingLoadout);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -3662,6 +4180,9 @@ namespace Rtech.Liveapi {
       }
       if (ServerId.Length != 0) {
         size += 1 + pb::CodedOutputStream.ComputeStringSize(ServerId);
+      }
+      if (startingLoadout_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(StartingLoadout);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -3704,6 +4225,12 @@ namespace Rtech.Liveapi {
       }
       if (other.ServerId.Length != 0) {
         ServerId = other.ServerId;
+      }
+      if (other.startingLoadout_ != null) {
+        if (startingLoadout_ == null) {
+          StartingLoadout = new global::Rtech.Liveapi.LoadoutConfiguration();
+        }
+        StartingLoadout.MergeFrom(other.StartingLoadout);
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -3757,6 +4284,13 @@ namespace Rtech.Liveapi {
           }
           case 74: {
             ServerId = input.ReadString();
+            break;
+          }
+          case 82: {
+            if (startingLoadout_ == null) {
+              StartingLoadout = new global::Rtech.Liveapi.LoadoutConfiguration();
+            }
+            input.ReadMessage(StartingLoadout);
             break;
           }
         }
@@ -3813,6 +4347,13 @@ namespace Rtech.Liveapi {
             ServerId = input.ReadString();
             break;
           }
+          case 82: {
+            if (startingLoadout_ == null) {
+              StartingLoadout = new global::Rtech.Liveapi.LoadoutConfiguration();
+            }
+            input.ReadMessage(StartingLoadout);
+            break;
+          }
         }
       }
     }
@@ -3838,7 +4379,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[10]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[12]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -4105,7 +4646,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[11]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[13]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -4381,7 +4922,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[12]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[14]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -4674,7 +5215,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[13]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[15]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -5098,7 +5639,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[14]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[16]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -5485,7 +6026,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[15]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[17]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -5762,7 +6303,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[16]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[18]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -6113,7 +6654,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[17]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[19]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -6446,6 +6987,321 @@ namespace Rtech.Liveapi {
   }
 
   /// <summary>
+  /// Event used to notify when a player goes above their current tier level
+  /// Tier levels start at 1. Following this event, players may have Upgrades to their legend
+  /// Selection of upgrades will produce a separate `LegendUpgradeSelected` event
+  /// </summary>
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class PlayerUpgradeTierChanged : pb::IMessage<PlayerUpgradeTierChanged>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<PlayerUpgradeTierChanged> _parser = new pb::MessageParser<PlayerUpgradeTierChanged>(() => new PlayerUpgradeTierChanged());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<PlayerUpgradeTierChanged> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[20]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public PlayerUpgradeTierChanged() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public PlayerUpgradeTierChanged(PlayerUpgradeTierChanged other) : this() {
+      timestamp_ = other.timestamp_;
+      category_ = other.category_;
+      player_ = other.player_ != null ? other.player_.Clone() : null;
+      level_ = other.level_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public PlayerUpgradeTierChanged Clone() {
+      return new PlayerUpgradeTierChanged(this);
+    }
+
+    /// <summary>Field number for the "timestamp" field.</summary>
+    public const int TimestampFieldNumber = 1;
+    private ulong timestamp_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong Timestamp {
+      get { return timestamp_; }
+      set {
+        timestamp_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "category" field.</summary>
+    public const int CategoryFieldNumber = 2;
+    private string category_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string Category {
+      get { return category_; }
+      set {
+        category_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "player" field.</summary>
+    public const int PlayerFieldNumber = 3;
+    private global::Rtech.Liveapi.Player player_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::Rtech.Liveapi.Player Player {
+      get { return player_; }
+      set {
+        player_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "level" field.</summary>
+    public const int LevelFieldNumber = 4;
+    private int level_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int Level {
+      get { return level_; }
+      set {
+        level_ = value;
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as PlayerUpgradeTierChanged);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(PlayerUpgradeTierChanged other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (Timestamp != other.Timestamp) return false;
+      if (Category != other.Category) return false;
+      if (!object.Equals(Player, other.Player)) return false;
+      if (Level != other.Level) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (Timestamp != 0UL) hash ^= Timestamp.GetHashCode();
+      if (Category.Length != 0) hash ^= Category.GetHashCode();
+      if (player_ != null) hash ^= Player.GetHashCode();
+      if (Level != 0) hash ^= Level.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (Timestamp != 0UL) {
+        output.WriteRawTag(8);
+        output.WriteUInt64(Timestamp);
+      }
+      if (Category.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(Category);
+      }
+      if (player_ != null) {
+        output.WriteRawTag(26);
+        output.WriteMessage(Player);
+      }
+      if (Level != 0) {
+        output.WriteRawTag(32);
+        output.WriteInt32(Level);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Timestamp != 0UL) {
+        output.WriteRawTag(8);
+        output.WriteUInt64(Timestamp);
+      }
+      if (Category.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(Category);
+      }
+      if (player_ != null) {
+        output.WriteRawTag(26);
+        output.WriteMessage(Player);
+      }
+      if (Level != 0) {
+        output.WriteRawTag(32);
+        output.WriteInt32(Level);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (Timestamp != 0UL) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt64Size(Timestamp);
+      }
+      if (Category.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(Category);
+      }
+      if (player_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Player);
+      }
+      if (Level != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Level);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(PlayerUpgradeTierChanged other) {
+      if (other == null) {
+        return;
+      }
+      if (other.Timestamp != 0UL) {
+        Timestamp = other.Timestamp;
+      }
+      if (other.Category.Length != 0) {
+        Category = other.Category;
+      }
+      if (other.player_ != null) {
+        if (player_ == null) {
+          Player = new global::Rtech.Liveapi.Player();
+        }
+        Player.MergeFrom(other.Player);
+      }
+      if (other.Level != 0) {
+        Level = other.Level;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            Timestamp = input.ReadUInt64();
+            break;
+          }
+          case 18: {
+            Category = input.ReadString();
+            break;
+          }
+          case 26: {
+            if (player_ == null) {
+              Player = new global::Rtech.Liveapi.Player();
+            }
+            input.ReadMessage(Player);
+            break;
+          }
+          case 32: {
+            Level = input.ReadInt32();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 8: {
+            Timestamp = input.ReadUInt64();
+            break;
+          }
+          case 18: {
+            Category = input.ReadString();
+            break;
+          }
+          case 26: {
+            if (player_ == null) {
+              Player = new global::Rtech.Liveapi.Player();
+            }
+            input.ReadMessage(Player);
+            break;
+          }
+          case 32: {
+            Level = input.ReadInt32();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  /// <summary>
   /// Event describing a player taking damage
   /// Details includ the attacker, victim, the weapon used and the amount of damage
   /// </summary>
@@ -6464,7 +7320,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[18]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[21]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -6844,7 +7700,8 @@ namespace Rtech.Liveapi {
 
   /// <summary>
   /// Sent when a player is killed. Details are similar to PlayerDamaged event
-  /// The `awardedTo` field describes the player that the kill is given to
+  /// The `awardedTo` field has been deprecated for simplicity.
+  /// Listen for the `PlayerStatChanged` message to determine which player the kill was awarded to.
   /// </summary>
   [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
   public sealed partial class PlayerKilled : pb::IMessage<PlayerKilled>
@@ -6861,7 +7718,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[19]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[22]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -6885,7 +7742,6 @@ namespace Rtech.Liveapi {
       category_ = other.category_;
       attacker_ = other.attacker_ != null ? other.attacker_.Clone() : null;
       victim_ = other.victim_ != null ? other.victim_.Clone() : null;
-      awardedTo_ = other.awardedTo_ != null ? other.awardedTo_.Clone() : null;
       weapon_ = other.weapon_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
@@ -6944,18 +7800,6 @@ namespace Rtech.Liveapi {
       }
     }
 
-    /// <summary>Field number for the "awardedTo" field.</summary>
-    public const int AwardedToFieldNumber = 5;
-    private global::Rtech.Liveapi.Player awardedTo_;
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public global::Rtech.Liveapi.Player AwardedTo {
-      get { return awardedTo_; }
-      set {
-        awardedTo_ = value;
-      }
-    }
-
     /// <summary>Field number for the "weapon" field.</summary>
     public const int WeaponFieldNumber = 6;
     private string weapon_ = "";
@@ -6987,7 +7831,6 @@ namespace Rtech.Liveapi {
       if (Category != other.Category) return false;
       if (!object.Equals(Attacker, other.Attacker)) return false;
       if (!object.Equals(Victim, other.Victim)) return false;
-      if (!object.Equals(AwardedTo, other.AwardedTo)) return false;
       if (Weapon != other.Weapon) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
@@ -7000,7 +7843,6 @@ namespace Rtech.Liveapi {
       if (Category.Length != 0) hash ^= Category.GetHashCode();
       if (attacker_ != null) hash ^= Attacker.GetHashCode();
       if (victim_ != null) hash ^= Victim.GetHashCode();
-      if (awardedTo_ != null) hash ^= AwardedTo.GetHashCode();
       if (Weapon.Length != 0) hash ^= Weapon.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
@@ -7036,10 +7878,6 @@ namespace Rtech.Liveapi {
         output.WriteRawTag(34);
         output.WriteMessage(Victim);
       }
-      if (awardedTo_ != null) {
-        output.WriteRawTag(42);
-        output.WriteMessage(AwardedTo);
-      }
       if (Weapon.Length != 0) {
         output.WriteRawTag(50);
         output.WriteString(Weapon);
@@ -7070,10 +7908,6 @@ namespace Rtech.Liveapi {
         output.WriteRawTag(34);
         output.WriteMessage(Victim);
       }
-      if (awardedTo_ != null) {
-        output.WriteRawTag(42);
-        output.WriteMessage(AwardedTo);
-      }
       if (Weapon.Length != 0) {
         output.WriteRawTag(50);
         output.WriteString(Weapon);
@@ -7099,9 +7933,6 @@ namespace Rtech.Liveapi {
       }
       if (victim_ != null) {
         size += 1 + pb::CodedOutputStream.ComputeMessageSize(Victim);
-      }
-      if (awardedTo_ != null) {
-        size += 1 + pb::CodedOutputStream.ComputeMessageSize(AwardedTo);
       }
       if (Weapon.Length != 0) {
         size += 1 + pb::CodedOutputStream.ComputeStringSize(Weapon);
@@ -7135,12 +7966,6 @@ namespace Rtech.Liveapi {
           Victim = new global::Rtech.Liveapi.Player();
         }
         Victim.MergeFrom(other.Victim);
-      }
-      if (other.awardedTo_ != null) {
-        if (awardedTo_ == null) {
-          AwardedTo = new global::Rtech.Liveapi.Player();
-        }
-        AwardedTo.MergeFrom(other.AwardedTo);
       }
       if (other.Weapon.Length != 0) {
         Weapon = other.Weapon;
@@ -7180,13 +8005,6 @@ namespace Rtech.Liveapi {
               Victim = new global::Rtech.Liveapi.Player();
             }
             input.ReadMessage(Victim);
-            break;
-          }
-          case 42: {
-            if (awardedTo_ == null) {
-              AwardedTo = new global::Rtech.Liveapi.Player();
-            }
-            input.ReadMessage(AwardedTo);
             break;
           }
           case 50: {
@@ -7230,13 +8048,6 @@ namespace Rtech.Liveapi {
             input.ReadMessage(Victim);
             break;
           }
-          case 42: {
-            if (awardedTo_ == null) {
-              AwardedTo = new global::Rtech.Liveapi.Player();
-            }
-            input.ReadMessage(AwardedTo);
-            break;
-          }
           case 50: {
             Weapon = input.ReadString();
             break;
@@ -7267,7 +8078,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[20]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[23]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -7627,7 +8438,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[21]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[24]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -7987,7 +8798,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[22]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[25]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -8244,7 +9055,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[23]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[26]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -8586,6 +9397,368 @@ namespace Rtech.Liveapi {
   }
 
   /// <summary>
+  /// Occurs when Revenant, while using his Forged Shadows ultimate, takes any enemy damage
+  /// This event is distinct from `PlayerDamaged` since the player may receive no actual damage if the shadow is able to absorb it
+  /// The field `damageInflicted` will indicate how much damage (in total) was dealt
+  /// If there is any leftover damage that goes affects the player, that amount will be what is registered in a different `PlayerDamaged` event
+  /// </summary>
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class RevenantForgedShadowDamaged : pb::IMessage<RevenantForgedShadowDamaged>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<RevenantForgedShadowDamaged> _parser = new pb::MessageParser<RevenantForgedShadowDamaged>(() => new RevenantForgedShadowDamaged());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<RevenantForgedShadowDamaged> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[27]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public RevenantForgedShadowDamaged() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public RevenantForgedShadowDamaged(RevenantForgedShadowDamaged other) : this() {
+      timestamp_ = other.timestamp_;
+      category_ = other.category_;
+      attacker_ = other.attacker_ != null ? other.attacker_.Clone() : null;
+      victim_ = other.victim_ != null ? other.victim_.Clone() : null;
+      damageInflicted_ = other.damageInflicted_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public RevenantForgedShadowDamaged Clone() {
+      return new RevenantForgedShadowDamaged(this);
+    }
+
+    /// <summary>Field number for the "timestamp" field.</summary>
+    public const int TimestampFieldNumber = 1;
+    private ulong timestamp_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong Timestamp {
+      get { return timestamp_; }
+      set {
+        timestamp_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "category" field.</summary>
+    public const int CategoryFieldNumber = 2;
+    private string category_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string Category {
+      get { return category_; }
+      set {
+        category_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "attacker" field.</summary>
+    public const int AttackerFieldNumber = 3;
+    private global::Rtech.Liveapi.Player attacker_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::Rtech.Liveapi.Player Attacker {
+      get { return attacker_; }
+      set {
+        attacker_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "victim" field.</summary>
+    public const int VictimFieldNumber = 4;
+    private global::Rtech.Liveapi.Player victim_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::Rtech.Liveapi.Player Victim {
+      get { return victim_; }
+      set {
+        victim_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "damageInflicted" field.</summary>
+    public const int DamageInflictedFieldNumber = 6;
+    private uint damageInflicted_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public uint DamageInflicted {
+      get { return damageInflicted_; }
+      set {
+        damageInflicted_ = value;
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as RevenantForgedShadowDamaged);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(RevenantForgedShadowDamaged other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (Timestamp != other.Timestamp) return false;
+      if (Category != other.Category) return false;
+      if (!object.Equals(Attacker, other.Attacker)) return false;
+      if (!object.Equals(Victim, other.Victim)) return false;
+      if (DamageInflicted != other.DamageInflicted) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (Timestamp != 0UL) hash ^= Timestamp.GetHashCode();
+      if (Category.Length != 0) hash ^= Category.GetHashCode();
+      if (attacker_ != null) hash ^= Attacker.GetHashCode();
+      if (victim_ != null) hash ^= Victim.GetHashCode();
+      if (DamageInflicted != 0) hash ^= DamageInflicted.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (Timestamp != 0UL) {
+        output.WriteRawTag(8);
+        output.WriteUInt64(Timestamp);
+      }
+      if (Category.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(Category);
+      }
+      if (attacker_ != null) {
+        output.WriteRawTag(26);
+        output.WriteMessage(Attacker);
+      }
+      if (victim_ != null) {
+        output.WriteRawTag(34);
+        output.WriteMessage(Victim);
+      }
+      if (DamageInflicted != 0) {
+        output.WriteRawTag(48);
+        output.WriteUInt32(DamageInflicted);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Timestamp != 0UL) {
+        output.WriteRawTag(8);
+        output.WriteUInt64(Timestamp);
+      }
+      if (Category.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(Category);
+      }
+      if (attacker_ != null) {
+        output.WriteRawTag(26);
+        output.WriteMessage(Attacker);
+      }
+      if (victim_ != null) {
+        output.WriteRawTag(34);
+        output.WriteMessage(Victim);
+      }
+      if (DamageInflicted != 0) {
+        output.WriteRawTag(48);
+        output.WriteUInt32(DamageInflicted);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (Timestamp != 0UL) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt64Size(Timestamp);
+      }
+      if (Category.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(Category);
+      }
+      if (attacker_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Attacker);
+      }
+      if (victim_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Victim);
+      }
+      if (DamageInflicted != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt32Size(DamageInflicted);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(RevenantForgedShadowDamaged other) {
+      if (other == null) {
+        return;
+      }
+      if (other.Timestamp != 0UL) {
+        Timestamp = other.Timestamp;
+      }
+      if (other.Category.Length != 0) {
+        Category = other.Category;
+      }
+      if (other.attacker_ != null) {
+        if (attacker_ == null) {
+          Attacker = new global::Rtech.Liveapi.Player();
+        }
+        Attacker.MergeFrom(other.Attacker);
+      }
+      if (other.victim_ != null) {
+        if (victim_ == null) {
+          Victim = new global::Rtech.Liveapi.Player();
+        }
+        Victim.MergeFrom(other.Victim);
+      }
+      if (other.DamageInflicted != 0) {
+        DamageInflicted = other.DamageInflicted;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            Timestamp = input.ReadUInt64();
+            break;
+          }
+          case 18: {
+            Category = input.ReadString();
+            break;
+          }
+          case 26: {
+            if (attacker_ == null) {
+              Attacker = new global::Rtech.Liveapi.Player();
+            }
+            input.ReadMessage(Attacker);
+            break;
+          }
+          case 34: {
+            if (victim_ == null) {
+              Victim = new global::Rtech.Liveapi.Player();
+            }
+            input.ReadMessage(Victim);
+            break;
+          }
+          case 48: {
+            DamageInflicted = input.ReadUInt32();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 8: {
+            Timestamp = input.ReadUInt64();
+            break;
+          }
+          case 18: {
+            Category = input.ReadString();
+            break;
+          }
+          case 26: {
+            if (attacker_ == null) {
+              Attacker = new global::Rtech.Liveapi.Player();
+            }
+            input.ReadMessage(Attacker);
+            break;
+          }
+          case 34: {
+            if (victim_ == null) {
+              Victim = new global::Rtech.Liveapi.Player();
+            }
+            input.ReadMessage(Victim);
+            break;
+          }
+          case 48: {
+            DamageInflicted = input.ReadUInt32();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  /// <summary>
   /// Sent when a player is respawned and comes back into game
   /// For example, when using a respawn beacon
   /// </summary>
@@ -8604,7 +9777,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[24]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[28]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -8918,7 +10091,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[25]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[29]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -9240,7 +10413,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[26]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[30]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -9590,7 +10763,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[27]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[31]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -9940,7 +11113,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[28]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[32]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -10291,7 +11464,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[29]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[33]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -10667,7 +11840,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[30]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[34]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -11017,7 +12190,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[31]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[35]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -11341,7 +12514,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[32]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[36]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -11637,6 +12810,394 @@ namespace Rtech.Liveapi {
   }
 
   /// <summary>
+  /// Signals that a player has selected an upgrade at a particular tier level
+  /// Updates to their tier level will be sent as a PlayerUpgradeTierChanged event
+  /// </summary>
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class LegendUpgradeSelected : pb::IMessage<LegendUpgradeSelected>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<LegendUpgradeSelected> _parser = new pb::MessageParser<LegendUpgradeSelected>(() => new LegendUpgradeSelected());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<LegendUpgradeSelected> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[37]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public LegendUpgradeSelected() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public LegendUpgradeSelected(LegendUpgradeSelected other) : this() {
+      timestamp_ = other.timestamp_;
+      category_ = other.category_;
+      player_ = other.player_ != null ? other.player_.Clone() : null;
+      upgradeName_ = other.upgradeName_;
+      upgradeDesc_ = other.upgradeDesc_;
+      level_ = other.level_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public LegendUpgradeSelected Clone() {
+      return new LegendUpgradeSelected(this);
+    }
+
+    /// <summary>Field number for the "timestamp" field.</summary>
+    public const int TimestampFieldNumber = 1;
+    private ulong timestamp_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong Timestamp {
+      get { return timestamp_; }
+      set {
+        timestamp_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "category" field.</summary>
+    public const int CategoryFieldNumber = 2;
+    private string category_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string Category {
+      get { return category_; }
+      set {
+        category_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "player" field.</summary>
+    public const int PlayerFieldNumber = 3;
+    private global::Rtech.Liveapi.Player player_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::Rtech.Liveapi.Player Player {
+      get { return player_; }
+      set {
+        player_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "upgradeName" field.</summary>
+    public const int UpgradeNameFieldNumber = 4;
+    private string upgradeName_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string UpgradeName {
+      get { return upgradeName_; }
+      set {
+        upgradeName_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "upgradeDesc" field.</summary>
+    public const int UpgradeDescFieldNumber = 5;
+    private string upgradeDesc_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string UpgradeDesc {
+      get { return upgradeDesc_; }
+      set {
+        upgradeDesc_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "level" field.</summary>
+    public const int LevelFieldNumber = 6;
+    private int level_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int Level {
+      get { return level_; }
+      set {
+        level_ = value;
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as LegendUpgradeSelected);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(LegendUpgradeSelected other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (Timestamp != other.Timestamp) return false;
+      if (Category != other.Category) return false;
+      if (!object.Equals(Player, other.Player)) return false;
+      if (UpgradeName != other.UpgradeName) return false;
+      if (UpgradeDesc != other.UpgradeDesc) return false;
+      if (Level != other.Level) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (Timestamp != 0UL) hash ^= Timestamp.GetHashCode();
+      if (Category.Length != 0) hash ^= Category.GetHashCode();
+      if (player_ != null) hash ^= Player.GetHashCode();
+      if (UpgradeName.Length != 0) hash ^= UpgradeName.GetHashCode();
+      if (UpgradeDesc.Length != 0) hash ^= UpgradeDesc.GetHashCode();
+      if (Level != 0) hash ^= Level.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (Timestamp != 0UL) {
+        output.WriteRawTag(8);
+        output.WriteUInt64(Timestamp);
+      }
+      if (Category.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(Category);
+      }
+      if (player_ != null) {
+        output.WriteRawTag(26);
+        output.WriteMessage(Player);
+      }
+      if (UpgradeName.Length != 0) {
+        output.WriteRawTag(34);
+        output.WriteString(UpgradeName);
+      }
+      if (UpgradeDesc.Length != 0) {
+        output.WriteRawTag(42);
+        output.WriteString(UpgradeDesc);
+      }
+      if (Level != 0) {
+        output.WriteRawTag(48);
+        output.WriteInt32(Level);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Timestamp != 0UL) {
+        output.WriteRawTag(8);
+        output.WriteUInt64(Timestamp);
+      }
+      if (Category.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(Category);
+      }
+      if (player_ != null) {
+        output.WriteRawTag(26);
+        output.WriteMessage(Player);
+      }
+      if (UpgradeName.Length != 0) {
+        output.WriteRawTag(34);
+        output.WriteString(UpgradeName);
+      }
+      if (UpgradeDesc.Length != 0) {
+        output.WriteRawTag(42);
+        output.WriteString(UpgradeDesc);
+      }
+      if (Level != 0) {
+        output.WriteRawTag(48);
+        output.WriteInt32(Level);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (Timestamp != 0UL) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt64Size(Timestamp);
+      }
+      if (Category.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(Category);
+      }
+      if (player_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Player);
+      }
+      if (UpgradeName.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(UpgradeName);
+      }
+      if (UpgradeDesc.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(UpgradeDesc);
+      }
+      if (Level != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Level);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(LegendUpgradeSelected other) {
+      if (other == null) {
+        return;
+      }
+      if (other.Timestamp != 0UL) {
+        Timestamp = other.Timestamp;
+      }
+      if (other.Category.Length != 0) {
+        Category = other.Category;
+      }
+      if (other.player_ != null) {
+        if (player_ == null) {
+          Player = new global::Rtech.Liveapi.Player();
+        }
+        Player.MergeFrom(other.Player);
+      }
+      if (other.UpgradeName.Length != 0) {
+        UpgradeName = other.UpgradeName;
+      }
+      if (other.UpgradeDesc.Length != 0) {
+        UpgradeDesc = other.UpgradeDesc;
+      }
+      if (other.Level != 0) {
+        Level = other.Level;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            Timestamp = input.ReadUInt64();
+            break;
+          }
+          case 18: {
+            Category = input.ReadString();
+            break;
+          }
+          case 26: {
+            if (player_ == null) {
+              Player = new global::Rtech.Liveapi.Player();
+            }
+            input.ReadMessage(Player);
+            break;
+          }
+          case 34: {
+            UpgradeName = input.ReadString();
+            break;
+          }
+          case 42: {
+            UpgradeDesc = input.ReadString();
+            break;
+          }
+          case 48: {
+            Level = input.ReadInt32();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 8: {
+            Timestamp = input.ReadUInt64();
+            break;
+          }
+          case 18: {
+            Category = input.ReadString();
+            break;
+          }
+          case 26: {
+            if (player_ == null) {
+              Player = new global::Rtech.Liveapi.Player();
+            }
+            input.ReadMessage(Player);
+            break;
+          }
+          case 34: {
+            UpgradeName = input.ReadString();
+            break;
+          }
+          case 42: {
+            UpgradeDesc = input.ReadString();
+            break;
+          }
+          case 48: {
+            Level = input.ReadInt32();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  /// <summary>
   /// Indicates that a player has started using the zipline
   /// </summary>
   [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
@@ -11654,7 +13215,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[33]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[38]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -11969,7 +13530,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[34]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[39]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -12283,7 +13844,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[35]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[40]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -12596,7 +14157,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[36]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[41]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -12872,7 +14433,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[37]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[42]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -13149,7 +14710,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[38]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[43]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -13573,7 +15134,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[39]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[44]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -13926,7 +15487,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[40]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[45]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -14225,7 +15786,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[41]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[46]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -14418,7 +15979,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[42]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[47]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -14574,7 +16135,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[43]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[48]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -14767,7 +16328,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[44]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[49]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -14923,7 +16484,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[45]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[50]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -15116,7 +16677,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[46]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[51]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -15273,7 +16834,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[47]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[52]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -15469,7 +17030,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[48]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[53]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -15736,7 +17297,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[49]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[54]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -15949,8 +17510,9 @@ namespace Rtech.Liveapi {
   }
 
   /// <summary>
-  /// Request to alter any part of the custom match lobby
-  /// Several settings may be changed at once for convenience
+  /// Request to alter the settings of a custom match lobby
+  /// Your request should specify all fields being set with the new value
+  /// For convinience, call `CustomMatch_GetSettings` to get the full state of settings
   /// </summary>
   [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
   public sealed partial class CustomMatch_SetSettings : pb::IMessage<CustomMatch_SetSettings>
@@ -15967,7 +17529,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[50]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[55]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -16328,6 +17890,163 @@ namespace Rtech.Liveapi {
   }
 
   /// <summary>
+  /// Review all the current settings. This request will be replied to with
+  /// `CustomMatch_SetSettings` from which you can modify and reply with any new values for your convenience
+  /// </summary>
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class CustomMatch_GetSettings : pb::IMessage<CustomMatch_GetSettings>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<CustomMatch_GetSettings> _parser = new pb::MessageParser<CustomMatch_GetSettings>(() => new CustomMatch_GetSettings());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<CustomMatch_GetSettings> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[56]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CustomMatch_GetSettings() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CustomMatch_GetSettings(CustomMatch_GetSettings other) : this() {
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CustomMatch_GetSettings Clone() {
+      return new CustomMatch_GetSettings(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as CustomMatch_GetSettings);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CustomMatch_GetSettings other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(CustomMatch_GetSettings other) {
+      if (other == null) {
+        return;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+        }
+      }
+    }
+    #endif
+
+  }
+
+  /// <summary>
   /// Request to set the name of a team in custom match lobby
   /// Requires special access and is subject to text filtering
   /// </summary>
@@ -16346,7 +18065,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[51]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[57]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -16576,7 +18295,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[52]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[58]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -16780,7 +18499,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[53]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[59]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -16841,6 +18560,9 @@ namespace Rtech.Liveapi {
           break;
         case ActionsOneofCase.CustomMatchSetTeamName:
           CustomMatchSetTeamName = other.CustomMatchSetTeamName.Clone();
+          break;
+        case ActionsOneofCase.CustomMatchGetSettings:
+          CustomMatchGetSettings = other.CustomMatchGetSettings.Clone();
           break;
       }
 
@@ -17042,6 +18764,18 @@ namespace Rtech.Liveapi {
       }
     }
 
+    /// <summary>Field number for the "customMatch_GetSettings" field.</summary>
+    public const int CustomMatchGetSettingsFieldNumber = 21;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::Rtech.Liveapi.CustomMatch_GetSettings CustomMatchGetSettings {
+      get { return actionsCase_ == ActionsOneofCase.CustomMatchGetSettings ? (global::Rtech.Liveapi.CustomMatch_GetSettings) actions_ : null; }
+      set {
+        actions_ = value;
+        actionsCase_ = value == null ? ActionsOneofCase.None : ActionsOneofCase.CustomMatchGetSettings;
+      }
+    }
+
     private object actions_;
     /// <summary>Enum of possible cases for the "actions" oneof.</summary>
     public enum ActionsOneofCase {
@@ -17059,6 +18793,7 @@ namespace Rtech.Liveapi {
       CustomMatchSendChat = 18,
       CustomMatchGetLobbyPlayers = 19,
       CustomMatchSetTeamName = 20,
+      CustomMatchGetSettings = 21,
     }
     private ActionsOneofCase actionsCase_ = ActionsOneofCase.None;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -17104,6 +18839,7 @@ namespace Rtech.Liveapi {
       if (!object.Equals(CustomMatchSendChat, other.CustomMatchSendChat)) return false;
       if (!object.Equals(CustomMatchGetLobbyPlayers, other.CustomMatchGetLobbyPlayers)) return false;
       if (!object.Equals(CustomMatchSetTeamName, other.CustomMatchSetTeamName)) return false;
+      if (!object.Equals(CustomMatchGetSettings, other.CustomMatchGetSettings)) return false;
       if (ActionsCase != other.ActionsCase) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
@@ -17127,6 +18863,7 @@ namespace Rtech.Liveapi {
       if (actionsCase_ == ActionsOneofCase.CustomMatchSendChat) hash ^= CustomMatchSendChat.GetHashCode();
       if (actionsCase_ == ActionsOneofCase.CustomMatchGetLobbyPlayers) hash ^= CustomMatchGetLobbyPlayers.GetHashCode();
       if (actionsCase_ == ActionsOneofCase.CustomMatchSetTeamName) hash ^= CustomMatchSetTeamName.GetHashCode();
+      if (actionsCase_ == ActionsOneofCase.CustomMatchGetSettings) hash ^= CustomMatchGetSettings.GetHashCode();
       hash ^= (int) actionsCase_;
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
@@ -17206,6 +18943,10 @@ namespace Rtech.Liveapi {
         output.WriteRawTag(162, 1);
         output.WriteMessage(CustomMatchSetTeamName);
       }
+      if (actionsCase_ == ActionsOneofCase.CustomMatchGetSettings) {
+        output.WriteRawTag(170, 1);
+        output.WriteMessage(CustomMatchGetSettings);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -17276,6 +19017,10 @@ namespace Rtech.Liveapi {
         output.WriteRawTag(162, 1);
         output.WriteMessage(CustomMatchSetTeamName);
       }
+      if (actionsCase_ == ActionsOneofCase.CustomMatchGetSettings) {
+        output.WriteRawTag(170, 1);
+        output.WriteMessage(CustomMatchGetSettings);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -17330,6 +19075,9 @@ namespace Rtech.Liveapi {
       }
       if (actionsCase_ == ActionsOneofCase.CustomMatchSetTeamName) {
         size += 2 + pb::CodedOutputStream.ComputeMessageSize(CustomMatchSetTeamName);
+      }
+      if (actionsCase_ == ActionsOneofCase.CustomMatchGetSettings) {
+        size += 2 + pb::CodedOutputStream.ComputeMessageSize(CustomMatchGetSettings);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -17427,6 +19175,12 @@ namespace Rtech.Liveapi {
             CustomMatchSetTeamName = new global::Rtech.Liveapi.CustomMatch_SetTeamName();
           }
           CustomMatchSetTeamName.MergeFrom(other.CustomMatchSetTeamName);
+          break;
+        case ActionsOneofCase.CustomMatchGetSettings:
+          if (CustomMatchGetSettings == null) {
+            CustomMatchGetSettings = new global::Rtech.Liveapi.CustomMatch_GetSettings();
+          }
+          CustomMatchGetSettings.MergeFrom(other.CustomMatchGetSettings);
           break;
       }
 
@@ -17570,6 +19324,15 @@ namespace Rtech.Liveapi {
             CustomMatchSetTeamName = subBuilder;
             break;
           }
+          case 170: {
+            global::Rtech.Liveapi.CustomMatch_GetSettings subBuilder = new global::Rtech.Liveapi.CustomMatch_GetSettings();
+            if (actionsCase_ == ActionsOneofCase.CustomMatchGetSettings) {
+              subBuilder.MergeFrom(CustomMatchGetSettings);
+            }
+            input.ReadMessage(subBuilder);
+            CustomMatchGetSettings = subBuilder;
+            break;
+          }
         }
       }
     #endif
@@ -17710,6 +19473,15 @@ namespace Rtech.Liveapi {
             CustomMatchSetTeamName = subBuilder;
             break;
           }
+          case 170: {
+            global::Rtech.Liveapi.CustomMatch_GetSettings subBuilder = new global::Rtech.Liveapi.CustomMatch_GetSettings();
+            if (actionsCase_ == ActionsOneofCase.CustomMatchGetSettings) {
+              subBuilder.MergeFrom(CustomMatchGetSettings);
+            }
+            input.ReadMessage(subBuilder);
+            CustomMatchGetSettings = subBuilder;
+            break;
+          }
         }
       }
     }
@@ -17736,7 +19508,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[54]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[60]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -17934,7 +19706,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[55]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[61]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -18186,7 +19958,7 @@ namespace Rtech.Liveapi {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[56]; }
+      get { return global::Rtech.Liveapi.EventsReflection.Descriptor.MessageTypes[62]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
