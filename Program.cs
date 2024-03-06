@@ -9,7 +9,11 @@ namespace Project_Lastimosa
     {
         static void Main(string[] args)
         {
-            Repl();
+            var builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.AddSignalR();
+
+            var app = builder.Build();
         }
 
         /// <summary>
