@@ -1,11 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "2rUXngJlO9wWBGkjXILdl507jJah2rnphcgBpXP75fFXi7HgxkL4Ix3edjMuiHFbFuPg50/34YjFmrlHFHxHHw==",
+  "dgSpecHash": "Fv0jOUgymKsLd1PXC5A4gmhyPMMMrEQtVtap0JXIcRnbZBBrdGbHZHo0Lz4EbIbNsjkMmENEPnBL12gJGO2Y/g==",
   "success": true,
   "projectFilePath": "D:\\Project-Lastimosa\\Project-Lastimosa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Braden\\.nuget\\packages\\google.protobuf\\3.25.2\\google.protobuf.3.25.2.nupkg.sha512",
-    "C:\\Users\\Braden\\.nuget\\packages\\google.protobuf.tools\\3.25.2\\google.protobuf.tools.3.25.2.nupkg.sha512"
+    "C:\\Users\\Braden\\.nuget\\packages\\google.protobuf.tools\\3.25.2\\google.protobuf.tools.3.25.2.nupkg.sha512",
+    "C:\\Users\\Braden\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\8.0.2\\microsoft.aspnetcore.connections.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Braden\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\8.0.2\\microsoft.aspnetcore.signalr.common.8.0.2.nupkg.sha512",
+    "C:\\Users\\Braden\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Braden\\.nuget\\packages\\microsoft.extensions.features\\8.0.2\\microsoft.extensions.features.8.0.2.nupkg.sha512",
+    "C:\\Users\\Braden\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\Braden\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Braden\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

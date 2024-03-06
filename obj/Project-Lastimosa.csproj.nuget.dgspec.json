@@ -47,6 +47,10 @@
             "Google.Protobuf.Tools": {
               "target": "Package",
               "version": "[3.25.2, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Common": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
